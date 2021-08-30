@@ -1,0 +1,672 @@
+type	study_subject.study_subject_id	outcome_id	EVENT_OS	OVERALL_SURVIVAL_MONTHS
+outcome	study_subject_id_15	outcome_id_374		
+outcome	study_subject_id_1	outcome_id_374		
+outcome	study_subject_id_2	outcome_id_374		
+outcome	study_subject_id_3	outcome_id_374		
+outcome	study_subject_id_4	outcome_id_374		
+outcome	study_subject_id_5	outcome_id_374		
+outcome	study_subject_id_6	outcome_id_374		
+outcome	study_subject_id_7	outcome_id_374		
+outcome	study_subject_id_8	outcome_id_374		
+outcome	study_subject_id_9	outcome_id_374		
+outcome	study_subject_id_10	outcome_id_374		
+outcome	study_subject_id_11	outcome_id_374		
+outcome	study_subject_id_12	outcome_id_374		
+outcome	study_subject_id_13	outcome_id_374		
+outcome	study_subject_id_14	outcome_id_374		
+outcome	study_subject_id_18	outcome_id_147	1	15
+outcome	study_subject_id_37	outcome_id_147	1	15
+outcome	study_subject_id_19	outcome_id_157	1	17
+outcome	study_subject_id_20	outcome_id_157	1	17
+outcome	study_subject_id_21	outcome_id_157	1	17
+outcome	study_subject_id_22	outcome_id_157	1	17
+outcome	study_subject_id_23	outcome_id_147	1	15
+outcome	study_subject_id_24	outcome_id_147	1	15
+outcome	study_subject_id_25	outcome_id_147	1	15
+outcome	study_subject_id_26	outcome_id_147	1	15
+outcome	study_subject_id_27	outcome_id_154	1	16
+outcome	study_subject_id_28	outcome_id_110	1	10
+outcome	study_subject_id_29	outcome_id_154	1	16
+outcome	study_subject_id_30	outcome_id_154	1	16
+outcome	study_subject_id_31	outcome_id_65	1	4
+outcome	study_subject_id_32	outcome_id_154	1	16
+outcome	study_subject_id_33	outcome_id_104	1	9
+outcome	study_subject_id_34	outcome_id_132	1	13
+outcome	study_subject_id_35	outcome_id_132	1	13
+outcome	study_subject_id_36	outcome_id_132	1	13
+outcome	study_subject_id_38	outcome_id_125	1	12
+outcome	study_subject_id_39	outcome_id_125	1	12
+outcome	study_subject_id_40	outcome_id_125	1	12
+outcome	study_subject_id_41	outcome_id_125	1	12
+outcome	study_subject_id_42	outcome_id_56	1	2
+outcome	study_subject_id_43	outcome_id_56	1	2
+outcome	study_subject_id_44	outcome_id_56	1	2
+outcome	study_subject_id_45	outcome_id_86	1	7
+outcome	study_subject_id_46	outcome_id_110	1	10
+outcome	study_subject_id_47	outcome_id_56	1	2
+outcome	study_subject_id_48	outcome_id_110	1	10
+outcome	study_subject_id_49	outcome_id_104	1	9
+outcome	study_subject_id_50	outcome_id_72	1	5
+outcome	study_subject_id_51	outcome_id_104	1	9
+outcome	study_subject_id_52	outcome_id_104	1	9
+outcome	study_subject_id_53	outcome_id_94	1	8
+outcome	study_subject_id_54	outcome_id_94	1	8
+outcome	study_subject_id_55	outcome_id_72	1	5
+outcome	study_subject_id_56	outcome_id_86	1	7
+outcome	study_subject_id_57	outcome_id_81	1	6
+outcome	study_subject_id_58	outcome_id_81	1	6
+outcome	study_subject_id_59	outcome_id_81	1	6
+outcome	study_subject_id_60	outcome_id_81	1	6
+outcome	study_subject_id_61	outcome_id_94	1	8
+outcome	study_subject_id_62	outcome_id_94	1	8
+outcome	study_subject_id_63	outcome_id_81	1	6
+outcome	study_subject_id_64	outcome_id_81	1	6
+outcome	study_subject_id_65	outcome_id_72	1	5
+outcome	study_subject_id_66	outcome_id_86	1	7
+outcome	study_subject_id_67	outcome_id_72	1	5
+outcome	study_subject_id_68	outcome_id_72	1	5
+outcome	study_subject_id_69	outcome_id_86	1	7
+outcome	study_subject_id_16	outcome_id_81	1	6
+outcome	study_subject_id_17	outcome_id_72	1	5
+outcome	study_subject_id_70	outcome_id_283	1	60.8
+outcome	study_subject_id_71	outcome_id_318	1	81.5
+outcome	study_subject_id_72	outcome_id_35	0	41
+outcome	study_subject_id_73	outcome_id_374		
+outcome	study_subject_id_74	outcome_id_233	1	36.5
+outcome	study_subject_id_75	outcome_id_42	0	59
+outcome	study_subject_id_76	outcome_id_161	1	17.6
+outcome	study_subject_id_77	outcome_id_2	0	2
+outcome	study_subject_id_78	outcome_id_135	1	13.4
+outcome	study_subject_id_79	outcome_id_87	1	7.1
+outcome	study_subject_id_80	outcome_id_8	0	8
+outcome	study_subject_id_81	outcome_id_374		
+outcome	study_subject_id_82	outcome_id_6	0	6
+outcome	study_subject_id_83	outcome_id_374		
+outcome	study_subject_id_84	outcome_id_178	1	20.6
+outcome	study_subject_id_85	outcome_id_287	1	63.3
+outcome	study_subject_id_86	outcome_id_298	1	67.8
+outcome	study_subject_id_87	outcome_id_137	1	13.6
+outcome	study_subject_id_88	outcome_id_307	1	72.4
+outcome	study_subject_id_89	outcome_id_115	1	10.5
+outcome	study_subject_id_90	outcome_id_234	1	36.6
+outcome	study_subject_id_91	outcome_id_214	1	28.4
+outcome	study_subject_id_92	outcome_id_41	0	58
+outcome	study_subject_id_93	outcome_id_246	1	38.9
+outcome	study_subject_id_94	outcome_id_200	1	24.7
+outcome	study_subject_id_95	outcome_id_322	1	85.2
+outcome	study_subject_id_96	outcome_id_319	1	83
+outcome	study_subject_id_97	outcome_id_167	1	18.5
+outcome	study_subject_id_98	outcome_id_251	1	41.8
+outcome	study_subject_id_99	outcome_id_351	1	127.1
+outcome	study_subject_id_100	outcome_id_302	1	69.6
+outcome	study_subject_id_101	outcome_id_25	0	30
+outcome	study_subject_id_102	outcome_id_166	1	18.3
+outcome	study_subject_id_103	outcome_id_34	0	40
+outcome	study_subject_id_104	outcome_id_272	1	51.7
+outcome	study_subject_id_105	outcome_id_292	1	64.7
+outcome	study_subject_id_106	outcome_id_29	0	34
+outcome	study_subject_id_107	outcome_id_374		
+outcome	study_subject_id_108	outcome_id_43	0	60
+outcome	study_subject_id_109	outcome_id_26	0	31
+outcome	study_subject_id_110	outcome_id_224	1	32
+outcome	study_subject_id_111	outcome_id_31	0	36
+outcome	study_subject_id_112	outcome_id_1	0	1
+outcome	study_subject_id_113	outcome_id_371	1	229.1
+outcome	study_subject_id_114	outcome_id_16	0	18
+outcome	study_subject_id_115	outcome_id_75	1	5.3
+outcome	study_subject_id_116	outcome_id_164	1	18
+outcome	study_subject_id_117	outcome_id_108	1	9.7
+outcome	study_subject_id_118	outcome_id_208	1	27.2
+outcome	study_subject_id_119	outcome_id_20	0	22
+outcome	study_subject_id_120	outcome_id_113	1	10.3
+outcome	study_subject_id_121	outcome_id_152	1	15.7
+outcome	study_subject_id_122	outcome_id_31	0	36
+outcome	study_subject_id_123	outcome_id_148	1	15.2
+outcome	study_subject_id_124	outcome_id_19	0	21
+outcome	study_subject_id_125	outcome_id_127	1	12.3
+outcome	study_subject_id_126	outcome_id_135	1	13.4
+outcome	study_subject_id_127	outcome_id_293	1	65.4
+outcome	study_subject_id_128	outcome_id_171	1	19.3
+outcome	study_subject_id_129	outcome_id_174	1	20
+outcome	study_subject_id_130	outcome_id_374		
+outcome	study_subject_id_131	outcome_id_13	0	15
+outcome	study_subject_id_132	outcome_id_238	1	37.4
+outcome	study_subject_id_133	outcome_id_123	1	11.5
+outcome	study_subject_id_134	outcome_id_279	1	58
+outcome	study_subject_id_135	outcome_id_133	1	13.2
+outcome	study_subject_id_136	outcome_id_66	1	4.1
+outcome	study_subject_id_137	outcome_id_281	1	59.3
+outcome	study_subject_id_138	outcome_id_134	1	13.3
+outcome	study_subject_id_139	outcome_id_53	1	1.7
+outcome	study_subject_id_140	outcome_id_128	1	12.5
+outcome	study_subject_id_141	outcome_id_368	1	183.2
+outcome	study_subject_id_142	outcome_id_218	1	29.6
+outcome	study_subject_id_143	outcome_id_12	0	14
+outcome	study_subject_id_144	outcome_id_179	1	20.7
+outcome	study_subject_id_145	outcome_id_31	0	36
+outcome	study_subject_id_146	outcome_id_271	1	50.8
+outcome	study_subject_id_147	outcome_id_374		
+outcome	study_subject_id_148	outcome_id_40	0	47
+outcome	study_subject_id_149	outcome_id_289	1	63.6
+outcome	study_subject_id_150	outcome_id_329	1	90.8
+outcome	study_subject_id_151	outcome_id_171	1	19.3
+outcome	study_subject_id_152	outcome_id_108	1	9.7
+outcome	study_subject_id_153	outcome_id_89	1	7.3
+outcome	study_subject_id_154	outcome_id_374		
+outcome	study_subject_id_155	outcome_id_227	1	34.1
+outcome	study_subject_id_156	outcome_id_233	1	36.5
+outcome	study_subject_id_157	outcome_id_269	1	48.5
+outcome	study_subject_id_158	outcome_id_207	1	27.1
+outcome	study_subject_id_159	outcome_id_373	1	274.7
+outcome	study_subject_id_160	outcome_id_142	1	14.2
+outcome	study_subject_id_161	outcome_id_370	1	213.8
+outcome	study_subject_id_162	outcome_id_131	1	12.9
+outcome	study_subject_id_163	outcome_id_4	0	4
+outcome	study_subject_id_164	outcome_id_340	1	112.2
+outcome	study_subject_id_165	outcome_id_271	1	50.8
+outcome	study_subject_id_166	outcome_id_285	1	62.3
+outcome	study_subject_id_167	outcome_id_66	1	4.1
+outcome	study_subject_id_168	outcome_id_39	0	46
+outcome	study_subject_id_169	outcome_id_122	1	11.2
+outcome	study_subject_id_170	outcome_id_374		
+outcome	study_subject_id_171	outcome_id_215	1	28.5
+outcome	study_subject_id_172	outcome_id_284	1	61.7
+outcome	study_subject_id_173	outcome_id_140	1	14
+outcome	study_subject_id_174	outcome_id_156	1	16.8
+outcome	study_subject_id_175	outcome_id_11	0	12
+outcome	study_subject_id_176	outcome_id_32	0	37
+outcome	study_subject_id_177	outcome_id_265	1	46.8
+outcome	study_subject_id_178	outcome_id_9	0	10
+outcome	study_subject_id_179	outcome_id_26	0	31
+outcome	study_subject_id_180	outcome_id_11	0	12
+outcome	study_subject_id_181	outcome_id_175	1	20.1
+outcome	study_subject_id_182	outcome_id_229	1	34.6
+outcome	study_subject_id_183	outcome_id_93	1	7.9
+outcome	study_subject_id_184	outcome_id_159	1	17.3
+outcome	study_subject_id_185	outcome_id_374		
+outcome	study_subject_id_186	outcome_id_262	1	46.3
+outcome	study_subject_id_187	outcome_id_323	1	86.5
+outcome	study_subject_id_188	outcome_id_135	1	13.4
+outcome	study_subject_id_189	outcome_id_6	0	6
+outcome	study_subject_id_190	outcome_id_194	1	23.3
+outcome	study_subject_id_191	outcome_id_254	1	42.5
+outcome	study_subject_id_192	outcome_id_225	1	32.2
+outcome	study_subject_id_193	outcome_id_236	1	36.8
+outcome	study_subject_id_194	outcome_id_253	1	42.4
+outcome	study_subject_id_195	outcome_id_169	1	19
+outcome	study_subject_id_196	outcome_id_37	0	43
+outcome	study_subject_id_197	outcome_id_241	1	38.1
+outcome	study_subject_id_198	outcome_id_119	1	10.9
+outcome	study_subject_id_199	outcome_id_374		
+outcome	study_subject_id_200	outcome_id_192	1	23
+outcome	study_subject_id_201	outcome_id_6	0	6
+outcome	study_subject_id_202	outcome_id_78	1	5.6
+outcome	study_subject_id_203	outcome_id_180	1	20.8
+outcome	study_subject_id_204	outcome_id_100	1	8.6
+outcome	study_subject_id_205	outcome_id_104	1	9
+outcome	study_subject_id_206	outcome_id_5	0	5
+outcome	study_subject_id_207	outcome_id_143	1	14.3
+outcome	study_subject_id_208	outcome_id_220	1	30.8
+outcome	study_subject_id_209	outcome_id_38	0	44
+outcome	study_subject_id_210	outcome_id_268	1	48.3
+outcome	study_subject_id_211	outcome_id_243	1	38.4
+outcome	study_subject_id_212	outcome_id_33	0	38
+outcome	study_subject_id_213	outcome_id_355	1	129.5
+outcome	study_subject_id_214	outcome_id_236	1	36.8
+outcome	study_subject_id_215	outcome_id_5	0	5
+outcome	study_subject_id_216	outcome_id_244	1	38.7
+outcome	study_subject_id_217	outcome_id_172	1	19.6
+outcome	study_subject_id_218	outcome_id_38	0	44
+outcome	study_subject_id_219	outcome_id_198	1	23.9
+outcome	study_subject_id_220	outcome_id_103	1	8.9
+outcome	study_subject_id_221	outcome_id_242	1	38.2
+outcome	study_subject_id_222	outcome_id_28	0	33
+outcome	study_subject_id_223	outcome_id_54	1	1.8
+outcome	study_subject_id_224	outcome_id_201	1	25.1
+outcome	study_subject_id_225	outcome_id_245	1	38.8
+outcome	study_subject_id_226	outcome_id_339	1	111.9
+outcome	study_subject_id_227	outcome_id_18	0	20
+outcome	study_subject_id_228	outcome_id_258	1	43.2
+outcome	study_subject_id_229	outcome_id_374		
+outcome	study_subject_id_230	outcome_id_3	0	3
+outcome	study_subject_id_231	outcome_id_22	0	24
+outcome	study_subject_id_232	outcome_id_6	0	6
+outcome	study_subject_id_233	outcome_id_274	1	55.2
+outcome	study_subject_id_234	outcome_id_69	1	4.5
+outcome	study_subject_id_235	outcome_id_24	0	29
+outcome	study_subject_id_236	outcome_id_11	0	12
+outcome	study_subject_id_237	outcome_id_82	1	6.1
+outcome	study_subject_id_238	outcome_id_282	1	59.4
+outcome	study_subject_id_239	outcome_id_232	1	36.4
+outcome	study_subject_id_240	outcome_id_239	1	37.5
+outcome	study_subject_id_241	outcome_id_145	1	14.5
+outcome	study_subject_id_242	outcome_id_194	1	23.3
+outcome	study_subject_id_243	outcome_id_21	0	23
+outcome	study_subject_id_244	outcome_id_73	1	5.1
+outcome	study_subject_id_245	outcome_id_151	1	15.6
+outcome	study_subject_id_246	outcome_id_230	1	34.7
+outcome	study_subject_id_247	outcome_id_261	1	45.7
+outcome	study_subject_id_248	outcome_id_300	1	68.8
+outcome	study_subject_id_249	outcome_id_60	1	2.7
+outcome	study_subject_id_250	outcome_id_6	0	6
+outcome	study_subject_id_251	outcome_id_202	1	25.2
+outcome	study_subject_id_252	outcome_id_317	1	81.4
+outcome	study_subject_id_253	outcome_id_37	0	43
+outcome	study_subject_id_254	outcome_id_6	0	6
+outcome	study_subject_id_255	outcome_id_14	0	16
+outcome	study_subject_id_256	outcome_id_189	1	22.6
+outcome	study_subject_id_257	outcome_id_316	1	81.3
+outcome	study_subject_id_258	outcome_id_181	1	21
+outcome	study_subject_id_259	outcome_id_5	0	5
+outcome	study_subject_id_260	outcome_id_247	1	39.3
+outcome	study_subject_id_261	outcome_id_263	1	46.4
+outcome	study_subject_id_262	outcome_id_11	0	12
+outcome	study_subject_id_263	outcome_id_6	0	6
+outcome	study_subject_id_264	outcome_id_226	1	33
+outcome	study_subject_id_265	outcome_id_167	1	18.5
+outcome	study_subject_id_266	outcome_id_162	1	17.7
+outcome	study_subject_id_267	outcome_id_68	1	4.4
+outcome	study_subject_id_268	outcome_id_101	1	8.7
+outcome	study_subject_id_269	outcome_id_235	1	36.7
+outcome	study_subject_id_270	outcome_id_185	1	22
+outcome	study_subject_id_271	outcome_id_6	0	6
+outcome	study_subject_id_272	outcome_id_196	1	23.7
+outcome	study_subject_id_273	outcome_id_11	0	12
+outcome	study_subject_id_274	outcome_id_155	1	16.1
+outcome	study_subject_id_275	outcome_id_55	1	1.9
+outcome	study_subject_id_276	outcome_id_374		
+outcome	study_subject_id_277	outcome_id_291	1	64.6
+outcome	study_subject_id_278	outcome_id_374		
+outcome	study_subject_id_279	outcome_id_6	0	6
+outcome	study_subject_id_280	outcome_id_148	1	15.2
+outcome	study_subject_id_281	outcome_id_51	1	1.3
+outcome	study_subject_id_282	outcome_id_221	1	31.3
+outcome	study_subject_id_283	outcome_id_266	1	46.9
+outcome	study_subject_id_284	outcome_id_52	1	1.6
+outcome	study_subject_id_285	outcome_id_101	1	8.7
+outcome	study_subject_id_286	outcome_id_98	1	8.4
+outcome	study_subject_id_287	outcome_id_115	1	10.5
+outcome	study_subject_id_288	outcome_id_197	1	23.8
+outcome	study_subject_id_289	outcome_id_306	1	72.1
+outcome	study_subject_id_290	outcome_id_233	1	36.5
+outcome	study_subject_id_291	outcome_id_195	1	23.4
+outcome	study_subject_id_292	outcome_id_27	0	32
+outcome	study_subject_id_293	outcome_id_13	0	15
+outcome	study_subject_id_294	outcome_id_71	1	4.9
+outcome	study_subject_id_295	outcome_id_217	1	29.5
+outcome	study_subject_id_296	outcome_id_374		
+outcome	study_subject_id_297	outcome_id_30	0	35
+outcome	study_subject_id_298	outcome_id_1	0	1
+outcome	study_subject_id_299	outcome_id_233	1	36.5
+outcome	study_subject_id_300	outcome_id_196	1	23.7
+outcome	study_subject_id_301	outcome_id_3	0	3
+outcome	study_subject_id_302	outcome_id_150	1	15.4
+outcome	study_subject_id_303	outcome_id_53	1	1.7
+outcome	study_subject_id_304	outcome_id_374		
+outcome	study_subject_id_305	outcome_id_136	1	13.5
+outcome	study_subject_id_306	outcome_id_210	1	27.5
+outcome	study_subject_id_307	outcome_id_222	1	31.6
+outcome	study_subject_id_308	outcome_id_235	1	36.7
+outcome	study_subject_id_309	outcome_id_3	0	3
+outcome	study_subject_id_310	outcome_id_96	1	8.2
+outcome	study_subject_id_311	outcome_id_166	1	18.3
+outcome	study_subject_id_312	outcome_id_21	0	23
+outcome	study_subject_id_313	outcome_id_11	0	12
+outcome	study_subject_id_314	outcome_id_27	0	32
+outcome	study_subject_id_315	outcome_id_23	0	26
+outcome	study_subject_id_316	outcome_id_8	0	8
+outcome	study_subject_id_317	outcome_id_237	1	37.2
+outcome	study_subject_id_318	outcome_id_36	0	42
+outcome	study_subject_id_319	outcome_id_203	1	25.8
+outcome	study_subject_id_320	outcome_id_13	0	15
+outcome	study_subject_id_321	outcome_id_234	1	36.6
+outcome	study_subject_id_322	outcome_id_245	1	38.8
+outcome	study_subject_id_323	outcome_id_62	1	3.3
+outcome	study_subject_id_324	outcome_id_49	1	1.1
+outcome	study_subject_id_325	outcome_id_193	1	23.1
+outcome	study_subject_id_326	outcome_id_374		
+outcome	study_subject_id_327	outcome_id_266	1	46.9
+outcome	study_subject_id_328	outcome_id_374		
+outcome	study_subject_id_329	outcome_id_374		
+outcome	study_subject_id_330	outcome_id_184	1	21.9
+outcome	study_subject_id_331	outcome_id_204	1	25.9
+outcome	study_subject_id_332	outcome_id_250	1	40.6
+outcome	study_subject_id_333	outcome_id_177	1	20.56666667
+outcome	study_subject_id_334	outcome_id_150	1	15.4
+outcome	study_subject_id_335	outcome_id_24	0	29
+outcome	study_subject_id_336	outcome_id_15	0	17
+outcome	study_subject_id_337	outcome_id_374		
+outcome	study_subject_id_338	outcome_id_374		
+outcome	study_subject_id_339	outcome_id_213	1	28.3
+outcome	study_subject_id_340	outcome_id_374		
+outcome	study_subject_id_341	outcome_id_24	0	29
+outcome	study_subject_id_342	outcome_id_24	0	29
+outcome	study_subject_id_343	outcome_id_228	1	34.2
+outcome	study_subject_id_344	outcome_id_5	0	5
+outcome	study_subject_id_345	outcome_id_5	0	5
+outcome	study_subject_id_346	outcome_id_21	0	23
+outcome	study_subject_id_347	outcome_id_214	1	28.4
+outcome	study_subject_id_348	outcome_id_67	1	4.233333333
+outcome	study_subject_id_349	outcome_id_183	1	21.66666667
+outcome	study_subject_id_350	outcome_id_22	0	24
+outcome	study_subject_id_351	outcome_id_188	1	22.5
+outcome	study_subject_id_352	outcome_id_168	1	18.7
+outcome	study_subject_id_353	outcome_id_129	1	12.6
+outcome	study_subject_id_354	outcome_id_9	0	10
+outcome	study_subject_id_355	outcome_id_16	0	18
+outcome	study_subject_id_356	outcome_id_5	0	5
+outcome	study_subject_id_357	outcome_id_81	1	6
+outcome	study_subject_id_358	outcome_id_273	1	53
+outcome	study_subject_id_359	outcome_id_44	1	0.1
+outcome	study_subject_id_360	outcome_id_178	1	20.6
+outcome	study_subject_id_361	outcome_id_337	1	108.9666667
+outcome	study_subject_id_362	outcome_id_164	1	18
+outcome	study_subject_id_363	outcome_id_7	0	7
+outcome	study_subject_id_364	outcome_id_17	0	19
+outcome	study_subject_id_365	outcome_id_125	1	12
+outcome	study_subject_id_366	outcome_id_128	1	12.5
+outcome	study_subject_id_367	outcome_id_6	0	6
+outcome	study_subject_id_368	outcome_id_70	1	4.8
+outcome	study_subject_id_369	outcome_id_374		
+outcome	study_subject_id_370	outcome_id_22	0	24
+outcome	study_subject_id_371	outcome_id_374		
+outcome	study_subject_id_372	outcome_id_85	1	6.9
+outcome	study_subject_id_373	outcome_id_77	1	5.5
+outcome	study_subject_id_374	outcome_id_259	1	44.6
+outcome	study_subject_id_375	outcome_id_106	1	9.4
+outcome	study_subject_id_376	outcome_id_111	1	10.1
+outcome	study_subject_id_377	outcome_id_83	1	6.2
+outcome	study_subject_id_378	outcome_id_240	1	37.9
+outcome	study_subject_id_379	outcome_id_172	1	19.6
+outcome	study_subject_id_380	outcome_id_374		
+outcome	study_subject_id_381	outcome_id_206	1	26.4
+outcome	study_subject_id_382	outcome_id_10	0	11
+outcome	study_subject_id_383	outcome_id_117	1	10.7
+outcome	study_subject_id_384	outcome_id_374		
+outcome	study_subject_id_385	outcome_id_157	1	17
+outcome	study_subject_id_386	outcome_id_231	1	35.9
+outcome	study_subject_id_387	outcome_id_11	0	12
+outcome	study_subject_id_388	outcome_id_374		
+outcome	study_subject_id_389	outcome_id_374		
+outcome	study_subject_id_390	outcome_id_5	0	5
+outcome	study_subject_id_391	outcome_id_294	1	66.4
+outcome	study_subject_id_392	outcome_id_184	1	21.9
+outcome	study_subject_id_393	outcome_id_374		
+outcome	study_subject_id_394	outcome_id_374		
+outcome	study_subject_id_395	outcome_id_196	1	23.7
+outcome	study_subject_id_396	outcome_id_374		
+outcome	study_subject_id_397	outcome_id_6	0	6
+outcome	study_subject_id_398	outcome_id_127	1	12.3
+outcome	study_subject_id_399	outcome_id_374		
+outcome	study_subject_id_400	outcome_id_374		
+outcome	study_subject_id_401	outcome_id_2	0	2
+outcome	study_subject_id_402	outcome_id_1	0	1
+outcome	study_subject_id_403	outcome_id_4	0	4
+outcome	study_subject_id_404	outcome_id_126	1	12.1
+outcome	study_subject_id_405	outcome_id_6	0	6
+outcome	study_subject_id_406	outcome_id_5	0	5
+outcome	study_subject_id_407	outcome_id_374		
+outcome	study_subject_id_408	outcome_id_374		
+outcome	study_subject_id_409	outcome_id_374		
+outcome	study_subject_id_410	outcome_id_374		
+outcome	study_subject_id_411	outcome_id_374		
+outcome	study_subject_id_412	outcome_id_374		
+outcome	study_subject_id_413	outcome_id_374		
+outcome	study_subject_id_414	outcome_id_374		
+outcome	study_subject_id_415	outcome_id_374		
+outcome	study_subject_id_416	outcome_id_374		
+outcome	study_subject_id_417	outcome_id_374		
+outcome	study_subject_id_418	outcome_id_374		
+outcome	study_subject_id_419	outcome_id_374		
+outcome	study_subject_id_420	outcome_id_374		
+outcome	study_subject_id_421	outcome_id_374		
+outcome	study_subject_id_422	outcome_id_374		
+outcome	study_subject_id_423	outcome_id_374		
+outcome	study_subject_id_424	outcome_id_374		
+outcome	study_subject_id_425	outcome_id_160	1	17.5
+outcome	study_subject_id_426	outcome_id_76	1	5.4
+outcome	study_subject_id_427	outcome_id_139	1	13.8
+outcome	study_subject_id_428	outcome_id_160	1	17.5
+outcome	study_subject_id_429	outcome_id_360	1	133.2
+outcome	study_subject_id_430	outcome_id_361	1	133.9
+outcome	study_subject_id_431	outcome_id_79	1	5.8
+outcome	study_subject_id_432	outcome_id_276	1	57.1
+outcome	study_subject_id_433	outcome_id_47	1	0.5
+outcome	study_subject_id_434	outcome_id_280	1	59
+outcome	study_subject_id_435	outcome_id_205	1	26.2
+outcome	study_subject_id_436	outcome_id_105	1	9.1
+outcome	study_subject_id_437	outcome_id_315	1	78.8
+outcome	study_subject_id_438	outcome_id_362	1	136.2
+outcome	study_subject_id_439	outcome_id_93	1	7.9
+outcome	study_subject_id_440	outcome_id_358	1	132
+outcome	study_subject_id_441	outcome_id_357	1	131.7
+outcome	study_subject_id_442	outcome_id_374		
+outcome	study_subject_id_443	outcome_id_359	1	132.9
+outcome	study_subject_id_444	outcome_id_50	1	1.2
+outcome	study_subject_id_445	outcome_id_354	1	128.9
+outcome	study_subject_id_446	outcome_id_46	1	0.3
+outcome	study_subject_id_447	outcome_id_356	1	131.5
+outcome	study_subject_id_448	outcome_id_356	1	131.5
+outcome	study_subject_id_449	outcome_id_353	1	128.8
+outcome	study_subject_id_450	outcome_id_352	1	128.4
+outcome	study_subject_id_451	outcome_id_374		
+outcome	study_subject_id_452	outcome_id_46	1	0.3
+outcome	study_subject_id_453	outcome_id_374		
+outcome	study_subject_id_454	outcome_id_125	1	12
+outcome	study_subject_id_455	outcome_id_350	1	127
+outcome	study_subject_id_456	outcome_id_374		
+outcome	study_subject_id_457	outcome_id_350	1	127
+outcome	study_subject_id_458	outcome_id_374		
+outcome	study_subject_id_459	outcome_id_374		
+outcome	study_subject_id_460	outcome_id_257	1	43.1
+outcome	study_subject_id_461	outcome_id_349	1	124
+outcome	study_subject_id_462	outcome_id_90	1	7.5
+outcome	study_subject_id_463	outcome_id_190	1	22.7
+outcome	study_subject_id_464	outcome_id_348	1	123.1
+outcome	study_subject_id_465	outcome_id_184	1	21.9
+outcome	study_subject_id_466	outcome_id_144	1	14.4
+outcome	study_subject_id_467	outcome_id_330	1	94.5
+outcome	study_subject_id_468	outcome_id_367	1	170.3
+outcome	study_subject_id_469	outcome_id_278	1	57.9
+outcome	study_subject_id_470	outcome_id_346	1	120.2
+outcome	study_subject_id_471	outcome_id_270	1	49.2
+outcome	study_subject_id_472	outcome_id_366	1	160.1
+outcome	study_subject_id_473	outcome_id_308	1	73.4
+outcome	study_subject_id_474	outcome_id_172	1	19.6
+outcome	study_subject_id_475	outcome_id_374		
+outcome	study_subject_id_476	outcome_id_374		
+outcome	study_subject_id_477	outcome_id_178	1	20.6
+outcome	study_subject_id_478	outcome_id_342	1	115.8
+outcome	study_subject_id_479	outcome_id_343	1	116.1
+outcome	study_subject_id_480	outcome_id_153	1	15.8
+outcome	study_subject_id_481	outcome_id_82	1	6.1
+outcome	study_subject_id_482	outcome_id_338	1	110.5
+outcome	study_subject_id_483	outcome_id_172	1	19.6
+outcome	study_subject_id_484	outcome_id_267	1	47.2
+outcome	study_subject_id_485	outcome_id_217	1	29.5
+outcome	study_subject_id_486	outcome_id_336	1	105.3
+outcome	study_subject_id_487	outcome_id_117	1	10.7
+outcome	study_subject_id_488	outcome_id_335	1	104.1
+outcome	study_subject_id_489	outcome_id_374		
+outcome	study_subject_id_490	outcome_id_374		
+outcome	study_subject_id_491	outcome_id_374		
+outcome	study_subject_id_492	outcome_id_61	1	3.2
+outcome	study_subject_id_493	outcome_id_172	1	19.6
+outcome	study_subject_id_494	outcome_id_374		
+outcome	study_subject_id_495	outcome_id_101	1	8.7
+outcome	study_subject_id_496	outcome_id_374		
+outcome	study_subject_id_497	outcome_id_267	1	47.2
+outcome	study_subject_id_498	outcome_id_374		
+outcome	study_subject_id_499	outcome_id_374		
+outcome	study_subject_id_500	outcome_id_297	1	67.6
+outcome	study_subject_id_501	outcome_id_153	1	15.8
+outcome	study_subject_id_502	outcome_id_374		
+outcome	study_subject_id_503	outcome_id_256	1	42.8
+outcome	study_subject_id_504	outcome_id_313	1	76.8
+outcome	study_subject_id_505	outcome_id_116	1	10.6
+outcome	study_subject_id_506	outcome_id_374		
+outcome	study_subject_id_507	outcome_id_333	1	98
+outcome	study_subject_id_508	outcome_id_117	1	10.7
+outcome	study_subject_id_509	outcome_id_374		
+outcome	study_subject_id_510	outcome_id_172	1	19.6
+outcome	study_subject_id_511	outcome_id_146	1	14.6
+outcome	study_subject_id_512	outcome_id_92	1	7.8
+outcome	study_subject_id_513	outcome_id_332	1	96.3
+outcome	study_subject_id_514	outcome_id_99	1	8.5
+outcome	study_subject_id_515	outcome_id_328	1	89.4
+outcome	study_subject_id_516	outcome_id_374		
+outcome	study_subject_id_517	outcome_id_310	1	74.9
+outcome	study_subject_id_518	outcome_id_95	1	8.1
+outcome	study_subject_id_519	outcome_id_90	1	7.5
+outcome	study_subject_id_520	outcome_id_324	1	88
+outcome	study_subject_id_521	outcome_id_301	1	68.9
+outcome	study_subject_id_522	outcome_id_264	1	46.7
+outcome	study_subject_id_523	outcome_id_374		
+outcome	study_subject_id_524	outcome_id_374		
+outcome	study_subject_id_525	outcome_id_107	1	9.6
+outcome	study_subject_id_526	outcome_id_260	1	45.3
+outcome	study_subject_id_527	outcome_id_290	1	63.8
+outcome	study_subject_id_528	outcome_id_374		
+outcome	study_subject_id_529	outcome_id_138	1	13.7
+outcome	study_subject_id_530	outcome_id_216	1	28.8
+outcome	study_subject_id_531	outcome_id_141	1	14.1
+outcome	study_subject_id_532	outcome_id_374		
+outcome	study_subject_id_533	outcome_id_295	1	66.7
+outcome	study_subject_id_534	outcome_id_364	1	146.9
+outcome	study_subject_id_535	outcome_id_48	1	1
+outcome	study_subject_id_536	outcome_id_345	1	119
+outcome	study_subject_id_537	outcome_id_73	1	5.1
+outcome	study_subject_id_538	outcome_id_259	1	44.6
+outcome	study_subject_id_539	outcome_id_120	1	11
+outcome	study_subject_id_540	outcome_id_326	1	88.7
+outcome	study_subject_id_541	outcome_id_344	1	116.5
+outcome	study_subject_id_542	outcome_id_116	1	10.6
+outcome	study_subject_id_543	outcome_id_363	1	137.7
+outcome	study_subject_id_544	outcome_id_233	1	36.5
+outcome	study_subject_id_545	outcome_id_148	1	15.2
+outcome	study_subject_id_546	outcome_id_286	1	62.4
+outcome	study_subject_id_547	outcome_id_325	1	88.3
+outcome	study_subject_id_548	outcome_id_174	1	20
+outcome	study_subject_id_549	outcome_id_347	1	120.5
+outcome	study_subject_id_550	outcome_id_248	1	40.3
+outcome	study_subject_id_551	outcome_id_212	1	28.1
+outcome	study_subject_id_552	outcome_id_199	1	24.5
+outcome	study_subject_id_553	outcome_id_164	1	18
+outcome	study_subject_id_554	outcome_id_123	1	11.5
+outcome	study_subject_id_555	outcome_id_102	1	8.8
+outcome	study_subject_id_556	outcome_id_308	1	73.4
+outcome	study_subject_id_557	outcome_id_191	1	22.8
+outcome	study_subject_id_558	outcome_id_58	1	2.4
+outcome	study_subject_id_559	outcome_id_99	1	8.5
+outcome	study_subject_id_560	outcome_id_104	1	9
+outcome	study_subject_id_561	outcome_id_136	1	13.5
+outcome	study_subject_id_562	outcome_id_89	1	7.3
+outcome	study_subject_id_563	outcome_id_260	1	45.3
+outcome	study_subject_id_564	outcome_id_166	1	18.3
+outcome	study_subject_id_565	outcome_id_153	1	15.8
+outcome	study_subject_id_566	outcome_id_182	1	21.2
+outcome	study_subject_id_567	outcome_id_336	1	105.3
+outcome	study_subject_id_568	outcome_id_163	1	17.9
+outcome	study_subject_id_569	outcome_id_153	1	15.8
+outcome	study_subject_id_570	outcome_id_331	1	95.2
+outcome	study_subject_id_571	outcome_id_175	1	20.1
+outcome	study_subject_id_572	outcome_id_46	1	0.3
+outcome	study_subject_id_573	outcome_id_207	1	27.1
+outcome	study_subject_id_574	outcome_id_114	1	10.4
+outcome	study_subject_id_575	outcome_id_372	1	251.7
+outcome	study_subject_id_576	outcome_id_176	1	20.2
+outcome	study_subject_id_577	outcome_id_334	1	98.4
+outcome	study_subject_id_578	outcome_id_365	1	149
+outcome	study_subject_id_579	outcome_id_45	1	0.2
+outcome	study_subject_id_580	outcome_id_63	1	3.5
+outcome	study_subject_id_581	outcome_id_196	1	23.7
+outcome	study_subject_id_582	outcome_id_327	1	89.1
+outcome	study_subject_id_583	outcome_id_132	1	13
+outcome	study_subject_id_584	outcome_id_153	1	15.8
+outcome	study_subject_id_585	outcome_id_133	1	13.2
+outcome	study_subject_id_586	outcome_id_277	1	57.7
+outcome	study_subject_id_587	outcome_id_170	1	19.1
+outcome	study_subject_id_588	outcome_id_158	1	17.2
+outcome	study_subject_id_589	outcome_id_374		
+outcome	study_subject_id_590	outcome_id_85	1	6.9
+outcome	study_subject_id_591	outcome_id_91	1	7.7
+outcome	study_subject_id_592	outcome_id_374		
+outcome	study_subject_id_593	outcome_id_321	1	84.5
+outcome	study_subject_id_594	outcome_id_118	1	10.8
+outcome	study_subject_id_595	outcome_id_341	1	115.7
+outcome	study_subject_id_596	outcome_id_80	1	5.9
+outcome	study_subject_id_597	outcome_id_104	1	9
+outcome	study_subject_id_598	outcome_id_320	1	83.5
+outcome	study_subject_id_599	outcome_id_249	1	40.4
+outcome	study_subject_id_600	outcome_id_136	1	13.5
+outcome	study_subject_id_601	outcome_id_220	1	30.8
+outcome	study_subject_id_602	outcome_id_374		
+outcome	study_subject_id_603	outcome_id_374		
+outcome	study_subject_id_604	outcome_id_362	1	136.2
+outcome	study_subject_id_605	outcome_id_268	1	48.3
+outcome	study_subject_id_606	outcome_id_219	1	30
+outcome	study_subject_id_607	outcome_id_296	1	66.8
+outcome	study_subject_id_608	outcome_id_74	1	5.2
+outcome	study_subject_id_609	outcome_id_130	1	12.7
+outcome	study_subject_id_610	outcome_id_314	1	78.2
+outcome	study_subject_id_611	outcome_id_267	1	47.2
+outcome	study_subject_id_612	outcome_id_102	1	8.8
+outcome	study_subject_id_613	outcome_id_305	1	72
+outcome	study_subject_id_614	outcome_id_186	1	22.2
+outcome	study_subject_id_615	outcome_id_223	1	31.7
+outcome	study_subject_id_616	outcome_id_109	1	9.9
+outcome	study_subject_id_617	outcome_id_299	1	68.3
+outcome	study_subject_id_618	outcome_id_65	1	4
+outcome	study_subject_id_619	outcome_id_57	1	2.2
+outcome	study_subject_id_620	outcome_id_252	1	41.9
+outcome	study_subject_id_621	outcome_id_227	1	34.1
+outcome	study_subject_id_622	outcome_id_84	1	6.4
+outcome	study_subject_id_623	outcome_id_60	1	2.7
+outcome	study_subject_id_624	outcome_id_275	1	56.6
+outcome	study_subject_id_625	outcome_id_97	1	8.3
+outcome	study_subject_id_626	outcome_id_92	1	7.8
+outcome	study_subject_id_627	outcome_id_61	1	3.2
+outcome	study_subject_id_628	outcome_id_112	1	10.2
+outcome	study_subject_id_629	outcome_id_303	1	70.9
+outcome	study_subject_id_630	outcome_id_304	1	71.2
+outcome	study_subject_id_631	outcome_id_50	1	1.2
+outcome	study_subject_id_632	outcome_id_255	1	42.6
+outcome	study_subject_id_633	outcome_id_45	1	0.2
+outcome	study_subject_id_634	outcome_id_173	1	19.9
+outcome	study_subject_id_635	outcome_id_312	1	75.3
+outcome	study_subject_id_636	outcome_id_311	1	75.2
+outcome	study_subject_id_637	outcome_id_62	1	3.3
+outcome	study_subject_id_638	outcome_id_309	1	73.6
+outcome	study_subject_id_639	outcome_id_93	1	7.9
+outcome	study_subject_id_640	outcome_id_296	1	66.8
+outcome	study_subject_id_641	outcome_id_58	1	2.4
+outcome	study_subject_id_642	outcome_id_146	1	14.6
+outcome	study_subject_id_643	outcome_id_77	1	5.5
+outcome	study_subject_id_644	outcome_id_59	1	2.5
+outcome	study_subject_id_645	outcome_id_134	1	13.3
+outcome	study_subject_id_646	outcome_id_288	1	63.5
+outcome	study_subject_id_647	outcome_id_76	1	5.4
+outcome	study_subject_id_648	outcome_id_298	1	67.8
+outcome	study_subject_id_649	outcome_id_187	1	22.3
+outcome	study_subject_id_650	outcome_id_238	1	37.4
+outcome	study_subject_id_651	outcome_id_185	1	22
+outcome	study_subject_id_652	outcome_id_88	1	7.2
+outcome	study_subject_id_653	outcome_id_28	0	33
+outcome	study_subject_id_654	outcome_id_369	1	189.8
+outcome	study_subject_id_655	outcome_id_149	1	15.3
+outcome	study_subject_id_656	outcome_id_224	1	32
+outcome	study_subject_id_657	outcome_id_209	1	27.4
+outcome	study_subject_id_658	outcome_id_211	1	27.6
+outcome	study_subject_id_659	outcome_id_24	0	29
+outcome	study_subject_id_660	outcome_id_165	1	18.2
+outcome	study_subject_id_661	outcome_id_124	1	11.8
+outcome	study_subject_id_662	outcome_id_121	1	11.1
+outcome	study_subject_id_663	outcome_id_64	1	3.7
+outcome	study_subject_id_664	outcome_id_93	1	7.9
+outcome	study_subject_id_665	outcome_id_374		
+outcome	study_subject_id_666	outcome_id_374		
+outcome	study_subject_id_667	outcome_id_374		
+outcome	study_subject_id_668	outcome_id_374		
+outcome	study_subject_id_669	outcome_id_374		
+outcome	study_subject_id_670	outcome_id_374		
+outcome	study_subject_id_671	outcome_id_374		

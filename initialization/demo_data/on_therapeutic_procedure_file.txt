@@ -1,0 +1,672 @@
+type	study_subject.study_subject_id	on_therapeutic_procedure_id	ON_THERAPY_RADIATION_SITE	ON_THERAPY_RADIATION_TYPE	ON_THERAPY_CHEMO_AGENT_NAME	ON_THERAPY_SURGERY_HIST_DIAG	ON_THERAPY_SURGERY_TITLE	ON_THERAPY_SURGERY_OUTCOME
+on_therapeutic_procedure	study_subject_id_15	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_1	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_2	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_3	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_4	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_5	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_6	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_7	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_8	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_9	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_10	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_11	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_12	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_13	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_14	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_18	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_37	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_19	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_20	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_21	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_22	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_23	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_24	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_25	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_26	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_27	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_28	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_29	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_30	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_31	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_32	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_33	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_34	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_35	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_36	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_38	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_39	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_40	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_41	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_42	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_43	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_44	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_45	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_46	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_47	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_48	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_49	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_50	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_51	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_52	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_53	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_54	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_55	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_56	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_57	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_58	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_59	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_60	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_61	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_62	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_63	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_64	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_65	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_66	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_67	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_68	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_69	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_16	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_17	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_70	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_71	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_72	on_therapeutic_procedure_id_138			temozolomide	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_73	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_74	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_75	on_therapeutic_procedure_id_93			CCNU	NEUROBLASTOMA NOS	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_76	on_therapeutic_procedure_id_111			cyclophosphamide			
+on_therapeutic_procedure	study_subject_id_77	on_therapeutic_procedure_id_157				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_78	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_79	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_80	on_therapeutic_procedure_id_124			procarbazine	OLIGOASTROCYTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_81	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_82	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_83	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_84	on_therapeutic_procedure_id_119			ly317615	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_85	on_therapeutic_procedure_id_144			vincristine	OTHER-SPECIFY	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_86	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_87	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_88	on_therapeutic_procedure_id_131			temozolomide	ANAPLASTIC ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_89	on_therapeutic_procedure_id_120			ly317615	GLIOMA	CRANIOTOMY OPEN RESECTION	UNCLASSIFIED
+on_therapeutic_procedure	study_subject_id_90	on_therapeutic_procedure_id_134			temozolomide	GANGLIONEUROMA	STEREOTACTIC BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_91	on_therapeutic_procedure_id_7	PR - PARTIAL RESECTION	UNKNOWN				
+on_therapeutic_procedure	study_subject_id_92	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_93	on_therapeutic_procedure_id_139			temozolomide	OLIGOASTROCYTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_94	on_therapeutic_procedure_id_3	BX - BIOPSY ONLY					
+on_therapeutic_procedure	study_subject_id_95	on_therapeutic_procedure_id_106			carboplatin			
+on_therapeutic_procedure	study_subject_id_96	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_97	on_therapeutic_procedure_id_145			zolendronate	GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_98	on_therapeutic_procedure_id_109			cpt-11			
+on_therapeutic_procedure	study_subject_id_99	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_100	on_therapeutic_procedure_id_121			ly317615	OLIGODENDROGLIOMA	STEREOTACTIC BIOPSY	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_101	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_102	on_therapeutic_procedure_id_118			ly317615	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_103	on_therapeutic_procedure_id_81		PHOTON	tarceva			
+on_therapeutic_procedure	study_subject_id_104	on_therapeutic_procedure_id_83		PHOTON	temozolomide	ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_105	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_106	on_therapeutic_procedure_id_122			none			
+on_therapeutic_procedure	study_subject_id_107	on_therapeutic_procedure_id_84		PHOTON	temozolomide	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_108	on_therapeutic_procedure_id_130			temozolomide	ANAPLASTIC ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_109	on_therapeutic_procedure_id_82		PHOTON	temodal			
+on_therapeutic_procedure	study_subject_id_110	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_111	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_112	on_therapeutic_procedure_id_151				ASTROCYTOMA	STEREOTACTIC BIOPSY	UNKNOWN
+on_therapeutic_procedure	study_subject_id_113	on_therapeutic_procedure_id_165				OLIGODENDROGLIOMA	CRANIOTOMY OPEN BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_114	on_therapeutic_procedure_id_158				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_115	on_therapeutic_procedure_id_80		PHOTON	r115777	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_116	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_117	on_therapeutic_procedure_id_1	BX - BIOPSY ONLY	UNKNOWN		TUMOR		ASTROCYTOMA
+on_therapeutic_procedure	study_subject_id_118	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_119	on_therapeutic_procedure_id_132			temozolomide	ASTROCYTOMA MALIGNANT NOS	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_120	on_therapeutic_procedure_id_123			osi-774			
+on_therapeutic_procedure	study_subject_id_121	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_122	on_therapeutic_procedure_id_164				OLIGOASTROCYTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_123	on_therapeutic_procedure_id_4	CR - COMPLETE RESECTION	UNKNOWN				
+on_therapeutic_procedure	study_subject_id_124	on_therapeutic_procedure_id_167				OLIGODENDROGLIOMA	CRANIOTOMY OPEN RESECTION	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_125	on_therapeutic_procedure_id_102			bcnu			
+on_therapeutic_procedure	study_subject_id_126	on_therapeutic_procedure_id_102			bcnu			
+on_therapeutic_procedure	study_subject_id_127	on_therapeutic_procedure_id_146				ANAPLASTIC ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_128	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_129	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_130	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_131	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_132	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_133	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_134	on_therapeutic_procedure_id_172				OTHER-SPECIFY	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_135	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_136	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_137	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_138	on_therapeutic_procedure_id_105			carboplatin	OTHER-SPECIFY	CRANIOTOMY OPEN BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_139	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_140	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_141	on_therapeutic_procedure_id_169				OLIGODENDROGLIOMA	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_142	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_143	on_therapeutic_procedure_id_85		PHOTON	temozolomide			
+on_therapeutic_procedure	study_subject_id_144	on_therapeutic_procedure_id_156				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_145	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_146	on_therapeutic_procedure_id_88			Avastin			
+on_therapeutic_procedure	study_subject_id_147	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_148	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_149	on_therapeutic_procedure_id_2	BX - BIOPSY ONLY			TUMOR		OLIGODENDROGLIOMA
+on_therapeutic_procedure	study_subject_id_150	on_therapeutic_procedure_id_147				ASTROCYTOMA	CRANIOTOMY OPEN BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_151	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_152	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_153	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_154	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_155	on_therapeutic_procedure_id_117			lomustine			
+on_therapeutic_procedure	study_subject_id_156	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_157	on_therapeutic_procedure_id_166				OLIGODENDROGLIOMA	CRANIOTOMY OPEN BIOPSY	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_158	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_159	on_therapeutic_procedure_id_168				OLIGODENDROGLIOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_160	on_therapeutic_procedure_id_115			etoposide			
+on_therapeutic_procedure	study_subject_id_161	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_162	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_163	on_therapeutic_procedure_id_85		PHOTON	temozolomide			
+on_therapeutic_procedure	study_subject_id_164	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_165	on_therapeutic_procedure_id_157				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_166	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_167	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_168	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_169	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_170	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_171	on_therapeutic_procedure_id_155				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_172	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_173	on_therapeutic_procedure_id_154				GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_174	on_therapeutic_procedure_id_85		PHOTON	temozolomide			
+on_therapeutic_procedure	study_subject_id_175	on_therapeutic_procedure_id_102			bcnu			
+on_therapeutic_procedure	study_subject_id_176	on_therapeutic_procedure_id_85		PHOTON	temozolomide			
+on_therapeutic_procedure	study_subject_id_177	on_therapeutic_procedure_id_133			temozolomide	BREAST CANCER INVASIVE NOS	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_178	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_179	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_180	on_therapeutic_procedure_id_79		PHOTON	bcnu			
+on_therapeutic_procedure	study_subject_id_181	on_therapeutic_procedure_id_148				ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_182	on_therapeutic_procedure_id_3	BX - BIOPSY ONLY					
+on_therapeutic_procedure	study_subject_id_183	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_184	on_therapeutic_procedure_id_101			bcnu	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_185	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_186	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_187	on_therapeutic_procedure_id_152				GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_188	on_therapeutic_procedure_id_170				OTHER-SPECIFY	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_189	on_therapeutic_procedure_id_150				ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_190	on_therapeutic_procedure_id_138			temozolomide	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_191	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_192	on_therapeutic_procedure_id_101			bcnu	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_193	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_194	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_195	on_therapeutic_procedure_id_99			SDX-102	GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_196	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_197	on_therapeutic_procedure_id_86		PHOTON				
+on_therapeutic_procedure	study_subject_id_198	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_199	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_200	on_therapeutic_procedure_id_115			etoposide			
+on_therapeutic_procedure	study_subject_id_201	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_202	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_203	on_therapeutic_procedure_id_108			cpt-11	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_204	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_205	on_therapeutic_procedure_id_129			temodal			
+on_therapeutic_procedure	study_subject_id_206	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_207	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_208	on_therapeutic_procedure_id_171				OTHER-SPECIFY	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_209	on_therapeutic_procedure_id_111			cyclophosphamide			
+on_therapeutic_procedure	study_subject_id_210	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_211	on_therapeutic_procedure_id_85		PHOTON	temozolomide			
+on_therapeutic_procedure	study_subject_id_212	on_therapeutic_procedure_id_101			bcnu	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_213	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_214	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_215	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_216	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_217	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_218	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_219	on_therapeutic_procedure_id_141			temozolomide	OTHER-SPECIFY	CRANIOTOMY OPEN RESECTION	
+on_therapeutic_procedure	study_subject_id_220	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_221	on_therapeutic_procedure_id_10		3D CONFORMAL		MALIGNANT OLIGODENDROGLIOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_222	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_223	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_224	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_225	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_226	on_therapeutic_procedure_id_125			procarbazine	OLIGODENDROGLIOMA	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_227	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_228	on_therapeutic_procedure_id_149				ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_229	on_therapeutic_procedure_id_104			carboplatin	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_230	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_231	on_therapeutic_procedure_id_135			temozolomide	GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_232	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_233	on_therapeutic_procedure_id_104			carboplatin	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_234	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_235	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_236	on_therapeutic_procedure_id_137			temozolomide	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_237	on_therapeutic_procedure_id_157				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_238	on_therapeutic_procedure_id_92			CCNU	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_239	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_240	on_therapeutic_procedure_id_136			temozolomide	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN BIOPSY	UNKNOWN
+on_therapeutic_procedure	study_subject_id_241	on_therapeutic_procedure_id_89			BCNU-Wafer	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_242	on_therapeutic_procedure_id_159				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	
+on_therapeutic_procedure	study_subject_id_243	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_244	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_245	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_246	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_247	on_therapeutic_procedure_id_3	BX - BIOPSY ONLY					
+on_therapeutic_procedure	study_subject_id_248	on_therapeutic_procedure_id_111			cyclophosphamide			
+on_therapeutic_procedure	study_subject_id_249	on_therapeutic_procedure_id_109			cpt-11			
+on_therapeutic_procedure	study_subject_id_250	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_251	on_therapeutic_procedure_id_128			tamoxifen citrate			
+on_therapeutic_procedure	study_subject_id_252	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_253	on_therapeutic_procedure_id_131			temozolomide	ANAPLASTIC ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_254	on_therapeutic_procedure_id_129			temodal			
+on_therapeutic_procedure	study_subject_id_255	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_256	on_therapeutic_procedure_id_95			Depsipeptide	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_257	on_therapeutic_procedure_id_110			cyclophosphamide	OLIGODENDROGLIOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_258	on_therapeutic_procedure_id_160				GLIOBLASTOMA MULTIFORME		UNKNOWN
+on_therapeutic_procedure	study_subject_id_259	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_260	on_therapeutic_procedure_id_109			cpt-11			
+on_therapeutic_procedure	study_subject_id_261	on_therapeutic_procedure_id_112			cytotab			
+on_therapeutic_procedure	study_subject_id_262	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_263	on_therapeutic_procedure_id_91			BCNU-Wafer			
+on_therapeutic_procedure	study_subject_id_264	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_265	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_266	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_267	on_therapeutic_procedure_id_129			temodal			
+on_therapeutic_procedure	study_subject_id_268	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_269	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_270	on_therapeutic_procedure_id_107			cpt-11	GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_271	on_therapeutic_procedure_id_100			Trans Mid	OTHER-SPECIFY	CRANIOTOMY OPEN BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_272	on_therapeutic_procedure_id_161				GLIOMA	CRANIOTOMY OPEN RESECTION	UNCLASSIFIED
+on_therapeutic_procedure	study_subject_id_273	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_274	on_therapeutic_procedure_id_103			carboplatin	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN BIOPSY	
+on_therapeutic_procedure	study_subject_id_275	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_276	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_277	on_therapeutic_procedure_id_114			etoposide	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_278	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_279	on_therapeutic_procedure_id_90			BCNU-Wafer	TBD	CRANIOTOMY OPEN BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_280	on_therapeutic_procedure_id_5	CR - COMPLETE RESECTION			TUMOR		GLIOMA
+on_therapeutic_procedure	study_subject_id_281	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_282	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_283	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_284	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_285	on_therapeutic_procedure_id_127			rapamycin			
+on_therapeutic_procedure	study_subject_id_286	on_therapeutic_procedure_id_94			CCNU			
+on_therapeutic_procedure	study_subject_id_287	on_therapeutic_procedure_id_109			cpt-11			
+on_therapeutic_procedure	study_subject_id_288	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_289	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_290	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_291	on_therapeutic_procedure_id_88			Avastin			
+on_therapeutic_procedure	study_subject_id_292	on_therapeutic_procedure_id_169				OLIGODENDROGLIOMA	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_293	on_therapeutic_procedure_id_87			Avastin	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_294	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_295	on_therapeutic_procedure_id_96			Depsipeptide			
+on_therapeutic_procedure	study_subject_id_296	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_297	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_298	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_299	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_300	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_301	on_therapeutic_procedure_id_161				GLIOMA	CRANIOTOMY OPEN RESECTION	UNCLASSIFIED
+on_therapeutic_procedure	study_subject_id_302	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_303	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_304	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_305	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_306	on_therapeutic_procedure_id_94			CCNU			
+on_therapeutic_procedure	study_subject_id_307	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_308	on_therapeutic_procedure_id_140			temozolomide	OTHER-SPECIFY	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_309	on_therapeutic_procedure_id_109			cpt-11			
+on_therapeutic_procedure	study_subject_id_310	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_311	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_312	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_313	on_therapeutic_procedure_id_158				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_314	on_therapeutic_procedure_id_163				OLIGOASTROCYTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_315	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_316	on_therapeutic_procedure_id_158				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_317	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_318	on_therapeutic_procedure_id_137			temozolomide	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_319	on_therapeutic_procedure_id_152				GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_320	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_321	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_322	on_therapeutic_procedure_id_152				GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_323	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_324	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_325	on_therapeutic_procedure_id_157				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_326	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_327	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_328	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_329	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_330	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_331	on_therapeutic_procedure_id_172				OTHER-SPECIFY	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_332	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_333	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_334	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_335	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_336	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_337	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_338	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_339	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_340	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_341	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_342	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_343	on_therapeutic_procedure_id_106			carboplatin			
+on_therapeutic_procedure	study_subject_id_344	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_345	on_therapeutic_procedure_id_88			Avastin			
+on_therapeutic_procedure	study_subject_id_346	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_347	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_348	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_349	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_350	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_351	on_therapeutic_procedure_id_147				ASTROCYTOMA	CRANIOTOMY OPEN BIOPSY	BX - BIOPSY ONLY
+on_therapeutic_procedure	study_subject_id_352	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_353	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_354	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_355	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_356	on_therapeutic_procedure_id_6	CR - COMPLETE RESECTION					
+on_therapeutic_procedure	study_subject_id_357	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_358	on_therapeutic_procedure_id_161				GLIOMA	CRANIOTOMY OPEN RESECTION	UNCLASSIFIED
+on_therapeutic_procedure	study_subject_id_359	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_360	on_therapeutic_procedure_id_88			Avastin			
+on_therapeutic_procedure	study_subject_id_361	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_362	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_363	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_364	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_365	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_366	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_367	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_368	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_369	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_370	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_371	on_therapeutic_procedure_id_106			carboplatin			
+on_therapeutic_procedure	study_subject_id_372	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_373	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_374	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_375	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_376	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_377	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_378	on_therapeutic_procedure_id_157				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_379	on_therapeutic_procedure_id_156				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_380	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_381	on_therapeutic_procedure_id_158				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	UNKNOWN
+on_therapeutic_procedure	study_subject_id_382	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_383	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_384	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_385	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_386	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_387	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_388	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_389	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_390	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_391	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_392	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_393	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_394	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_395	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_396	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_397	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_398	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_399	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_400	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_401	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_402	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_403	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_404	on_therapeutic_procedure_id_156				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_405	on_therapeutic_procedure_id_153				GLIOBLASTOMA	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_406	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_407	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_408	on_therapeutic_procedure_id_157				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_409	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_410	on_therapeutic_procedure_id_3	BX - BIOPSY ONLY					
+on_therapeutic_procedure	study_subject_id_411	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_412	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_413	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_414	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_415	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_416	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_417	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_418	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_419	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_420	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_421	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_422	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_423	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_424	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_425	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_426	on_therapeutic_procedure_id_116			gw572016			
+on_therapeutic_procedure	study_subject_id_427	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_428	on_therapeutic_procedure_id_157				GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_429	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_430	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_431	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_432	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_433	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_434	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_435	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_436	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_437	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_438	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_439	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_440	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_441	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_442	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_443	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_444	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_445	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_446	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_447	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_448	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_449	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_450	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_451	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_452	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_453	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_454	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_455	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_456	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_457	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_458	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_459	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_460	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_461	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_462	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_463	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_464	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_465	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_466	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_467	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_468	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_469	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_470	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_471	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_472	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_473	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_474	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_475	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_476	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_477	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_478	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_479	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_480	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_481	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_482	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_483	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_484	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_485	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_486	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_487	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_488	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_489	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_490	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_491	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_492	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_493	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_494	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_495	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_496	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_497	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_498	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_499	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_500	on_therapeutic_procedure_id_35		EBRT	PCV(8)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_501	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_502	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_503	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_504	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_505	on_therapeutic_procedure_id_14		EBRT	9-AC(2)	GBM with necrosis	subtotal x2	subtotal
+on_therapeutic_procedure	study_subject_id_506	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_507	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_508	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_509	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_510	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_511	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_512	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_513	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_514	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_515	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_516	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_517	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_518	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_519	on_therapeutic_procedure_id_23		EBRT	CI-980(2)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_520	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_521	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_522	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_523	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_524	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_525	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_526	on_therapeutic_procedure_id_68		EBRT (3D-CRT)	PCV+CCNU|| EMD|| Temodar|| PCV+CCNU(2|| 1|| 2|| 1)	anaplastic oligodenroglioma; glioblastoma multiforme	subtotal x 2	subtotal
+on_therapeutic_procedure	study_subject_id_527	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_528	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_529	on_therapeutic_procedure_id_73		NONE	EBRT	recurrence		radiation necrosis
+on_therapeutic_procedure	study_subject_id_530	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_531	on_therapeutic_procedure_id_22		EBRT	CI-980 (NABTT 96-0)(4)	GBM + radiation injury	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_532	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_533	on_therapeutic_procedure_id_27		EBRT	NONE(NONE)	malignant glioma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_534	on_therapeutic_procedure_id_26		EBRT	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_535	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_536	on_therapeutic_procedure_id_32		EBRT	PCV(4)	foreign body granuloma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_537	on_therapeutic_procedure_id_72		NONE	EBRT	NONE		NONE
+on_therapeutic_procedure	study_subject_id_538	on_therapeutic_procedure_id_15		EBRT	BCNU (2)	Gemistocytic Astrocytoma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_539	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_540	on_therapeutic_procedure_id_69		EBRT (3D-CRT)	Temozolomide|| Bay 43|| PCV/CCNU(13	subtotal x 2		recurrence
+on_therapeutic_procedure	study_subject_id_541	on_therapeutic_procedure_id_75		NONE	Temozolomide(6)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_542	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_543	on_therapeutic_procedure_id_30		EBRT	PCV  (6)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_544	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_545	on_therapeutic_procedure_id_21		EBRT	CI-980 (NABTT 96-0)(2)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_546	on_therapeutic_procedure_id_33		EBRT	PCV(4)	mixed oligoastrocytoma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_547	on_therapeutic_procedure_id_13		EBRT	5-FU/Carboplatin/Gamma IFN/Thalidomide/plasmapheresis(4)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_548	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_549	on_therapeutic_procedure_id_19		EBRT	BCNU(6)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_550	on_therapeutic_procedure_id_36		EBRT	SU-101(6)	anaplastic astrocytoma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_551	on_therapeutic_procedure_id_34		EBRT	PCV(5)	abcess/infection arteritis	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_552	on_therapeutic_procedure_id_24		EBRT	CI-980(4)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_553	on_therapeutic_procedure_id_16		EBRT	BCNU(1)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_554	on_therapeutic_procedure_id_17		EBRT	BCNU(2)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_555	on_therapeutic_procedure_id_162				NONE	TMZ+Thalidomide(3)	NONE
+on_therapeutic_procedure	study_subject_id_556	on_therapeutic_procedure_id_31		EBRT	PCV(4)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_557	on_therapeutic_procedure_id_66		EBRT	penicillamine/low copper diet(9)	malignant astrocytoma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_558	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_559	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_560	on_therapeutic_procedure_id_48		EBRT	TMZ(2)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_561	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_562	on_therapeutic_procedure_id_70		EBRT (L Frontal) + WBRT	ARA-C(5)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_563	on_therapeutic_procedure_id_67		EBRT (3D-CRT)	PCV + Temozolomide(2 PCV|| 5 TMZ)	anaplastic oligodenroglioma with necrosis	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_564	on_therapeutic_procedure_id_26		EBRT	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_565	on_therapeutic_procedure_id_49		EBRT	TMZ(2)	malignant glioma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_566	on_therapeutic_procedure_id_61		EBRT	Temozolomide(11)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_567	on_therapeutic_procedure_id_29		EBRT	NONE(NONE)	oligodendroglioma	gross total	Gross Total
+on_therapeutic_procedure	study_subject_id_568	on_therapeutic_procedure_id_25		EBRT	Gliadel Wafer(1)	oligodenroglioma and radiation necrosis	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_569	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_570	on_therapeutic_procedure_id_62		EBRT	Temozolomide(12)	Atypical oligodenroglioma; anaplastic oligodenroglioma x 2	subtotal x 3	subtotal
+on_therapeutic_procedure	study_subject_id_571	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_572	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_573	on_therapeutic_procedure_id_63		EBRT	Temozolomide(12)	necrosis; GBM	subtotal x 2	subtotal
+on_therapeutic_procedure	study_subject_id_574	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_575	on_therapeutic_procedure_id_41		EBRT	TMZ(11)	atypical oligodenroglioma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_576	on_therapeutic_procedure_id_40		EBRT	TMZ(11)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_577	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_578	on_therapeutic_procedure_id_56		EBRT	TMZ(8)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_579	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_580	on_therapeutic_procedure_id_20		EBRT	CAI (NABTT-9712)(1)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_581	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_582	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_583	on_therapeutic_procedure_id_18		EBRT	BCNU(4)	Anaplastic Astrocytoma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_584	on_therapeutic_procedure_id_43		EBRT	TMZ(12)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_585	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_586	on_therapeutic_procedure_id_45		EBRT	TMZ(15)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_587	on_therapeutic_procedure_id_51		EBRT	TMZ(3)	Gemistocytic Astrocytoma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_588	on_therapeutic_procedure_id_55		EBRT	TMZ(7)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_589	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_590	on_therapeutic_procedure_id_97			EBRT	NONE		NONE
+on_therapeutic_procedure	study_subject_id_591	on_therapeutic_procedure_id_48		EBRT	TMZ(2)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_592	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_593	on_therapeutic_procedure_id_28		EBRT	NONE(NONE)	oligoastrocytoma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_594	on_therapeutic_procedure_id_97			EBRT	NONE		NONE
+on_therapeutic_procedure	study_subject_id_595	on_therapeutic_procedure_id_65		EBRT	Temozolomide(2)	anaplastic gemistocytic glioma; gemistocytic glioma	sub total x 2	subtotal
+on_therapeutic_procedure	study_subject_id_596	on_therapeutic_procedure_id_11		3d-CRT	oxaliplatin (NABTT-9905)(4)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_597	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_598	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_599	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_600	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_601	on_therapeutic_procedure_id_98			EBRT	recurrence		subtotal
+on_therapeutic_procedure	study_subject_id_602	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_603	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_604	on_therapeutic_procedure_id_76		No	NO(NO)	NO	NO	NO
+on_therapeutic_procedure	study_subject_id_605	on_therapeutic_procedure_id_42		EBRT	TMZ(12)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_606	on_therapeutic_procedure_id_57		EBRT	TMZ(8)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_607	on_therapeutic_procedure_id_58		EBRT	TMZ+cRA(4)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_608	on_therapeutic_procedure_id_37		EBRT	TMZ(0)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_609	on_therapeutic_procedure_id_39		EBRT	TMZ(1)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_610	on_therapeutic_procedure_id_26		EBRT	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_611	on_therapeutic_procedure_id_46		EBRT	TMZ(2)	Anaplastic Astrocytoma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_612	on_therapeutic_procedure_id_97			EBRT	NONE		NONE
+on_therapeutic_procedure	study_subject_id_613	on_therapeutic_procedure_id_42		EBRT	TMZ(12)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_614	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_615	on_therapeutic_procedure_id_50		EBRT	TMZ(22)	undifferentiated malignant glioma	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_616	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_617	on_therapeutic_procedure_id_64		EBRT	Temozolomide(2)	No	NO	No
+on_therapeutic_procedure	study_subject_id_618	on_therapeutic_procedure_id_26		EBRT	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_619	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_620	on_therapeutic_procedure_id_77		No	No(No)	No	NO	No
+on_therapeutic_procedure	study_subject_id_621	on_therapeutic_procedure_id_47		EBRT	TMZ(2)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_622	on_therapeutic_procedure_id_77		No	No(No)	No	NO	No
+on_therapeutic_procedure	study_subject_id_623	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_624	on_therapeutic_procedure_id_54		EBRT	TMZ(5)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_625	on_therapeutic_procedure_id_52		EBRT	TMZ(3)	radiation necrosis	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_626	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_627	on_therapeutic_procedure_id_37		EBRT	TMZ(0)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_628	on_therapeutic_procedure_id_26		EBRT	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_629	on_therapeutic_procedure_id_78		No	Temozolomide(12)	No	NO	No
+on_therapeutic_procedure	study_subject_id_630	on_therapeutic_procedure_id_77		No	No(No)	No	NO	No
+on_therapeutic_procedure	study_subject_id_631	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_632	on_therapeutic_procedure_id_59		EBRT	Temodar(2)	GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_633	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_634	on_therapeutic_procedure_id_44		EBRT	TMZ(13)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_635	on_therapeutic_procedure_id_60		EBRT	Temodar(6)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_636	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_637	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_638	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_639	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_640	on_therapeutic_procedure_id_71		NO	NO(NO)	NO	NO	NO
+on_therapeutic_procedure	study_subject_id_641	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_642	on_therapeutic_procedure_id_53		EBRT	TMZ(4)	GBM and radiation necrosis	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_643	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_644	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_645	on_therapeutic_procedure_id_38		EBRT	TMZ(1)	CRN + minimal residual GBM	subtotal	subtotal
+on_therapeutic_procedure	study_subject_id_646	on_therapeutic_procedure_id_71		NO	NO(NO)	NO	NO	NO
+on_therapeutic_procedure	study_subject_id_647	on_therapeutic_procedure_id_12		Brachytherapy	NASS(NASS)	NASS	NASS	NASS
+on_therapeutic_procedure	study_subject_id_648	on_therapeutic_procedure_id_74		NONE	NONE(NONE)	NONE	NONE	NONE
+on_therapeutic_procedure	study_subject_id_649	on_therapeutic_procedure_id_126			prochlorperazine			
+on_therapeutic_procedure	study_subject_id_650	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_651	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_652	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_653	on_therapeutic_procedure_id_143			thioguanine			
+on_therapeutic_procedure	study_subject_id_654	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_655	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_656	on_therapeutic_procedure_id_130			temozolomide	ANAPLASTIC ASTROCYTOMA	CRANIOTOMY OPEN RESECTION	CR - COMPLETE RESECTION
+on_therapeutic_procedure	study_subject_id_657	on_therapeutic_procedure_id_113			erlotinib	GLIOBLASTOMA MULTIFORME	CRANIOTOMY OPEN RESECTION	PR - PARTIAL RESECTION
+on_therapeutic_procedure	study_subject_id_658	on_therapeutic_procedure_id_9		3D CONFORMAL	bcnu			
+on_therapeutic_procedure	study_subject_id_659	on_therapeutic_procedure_id_8	PR - PARTIAL RESECTION			TUMOR		GLIOBLASTOMA MULTIFORME
+on_therapeutic_procedure	study_subject_id_660	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_661	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_662	on_therapeutic_procedure_id_142			temozolomide			
+on_therapeutic_procedure	study_subject_id_663	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_664	on_therapeutic_procedure_id_109			cpt-11			
+on_therapeutic_procedure	study_subject_id_665	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_666	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_667	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_668	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_669	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_670	on_therapeutic_procedure_id_173						
+on_therapeutic_procedure	study_subject_id_671	on_therapeutic_procedure_id_173						

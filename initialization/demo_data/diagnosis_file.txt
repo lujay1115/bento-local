@@ -1,11 +1,672 @@
-type	study_subject.study_subject_id	diagnosis_id	tumor_grade	tumor_largest_dimension_diameter	er_status	nuclear_grade	pr_status	recurrence_score	tumor_size_group
-diagnosis	BENTO-CASE-0001	BENTO-DX-0001	Intermediate Grade	21	Positive	High	Positive	27	"(2,3]"
-diagnosis	BENTO-CASE-0002	BENTO-DX-0002	High Grade	21	Positive	High	Positive	30	"(2,3]"
-diagnosis	BENTO-CASE-0003	BENTO-DX-0003	Intermediate Grade	18	Negative	Medium	Positive	28	"(1,2]"
-diagnosis	BENTO-CASE-0004	BENTO-DX-0004	Low Grade	11	Positive	Not Reported	Positive	15	"(1,2]"
-diagnosis	BENTO-CASE-0005	BENTO-DX-0005	Intermediate Grade	15	Positive	Medium	Negative	11	"(1,2]"
-diagnosis	BENTO-CASE-0006	BENTO-DX-0006	Intermediate Grade	17	Positive	Medium	Positive	27	"(1,2]"
-diagnosis	BENTO-CASE-0007	BENTO-DX-0007	Intermediate Grade	23	Positive	High	Positive	35	"(2,3]"
-diagnosis	BENTO-CASE-0008	BENTO-DX-0008	Intermediate Grade	7	Positive	Not Reported	Negative	52	<=1  
-diagnosis	BENTO-CASE-0009	BENTO-DX-0009	Intermediate Grade	11	Positive	Medium	Positive	8	"(1,2]"
-diagnosis	BENTO-CASE-0010	BENTO-DX-0010	Low Grade	50	Positive	Medium	Positive	26	>4   
+type	study_subject.study_subject_id	diagnosis_id	DISEASE_TYPE	WHO_GRADE
+diagnosis	study_subject_id_15	diagnosis_id_17		
+diagnosis	study_subject_id_1	diagnosis_id_17		
+diagnosis	study_subject_id_2	diagnosis_id_17		
+diagnosis	study_subject_id_3	diagnosis_id_17		
+diagnosis	study_subject_id_4	diagnosis_id_17		
+diagnosis	study_subject_id_5	diagnosis_id_17		
+diagnosis	study_subject_id_6	diagnosis_id_17		
+diagnosis	study_subject_id_7	diagnosis_id_17		
+diagnosis	study_subject_id_8	diagnosis_id_17		
+diagnosis	study_subject_id_9	diagnosis_id_17		
+diagnosis	study_subject_id_10	diagnosis_id_17		
+diagnosis	study_subject_id_11	diagnosis_id_17		
+diagnosis	study_subject_id_12	diagnosis_id_17		
+diagnosis	study_subject_id_13	diagnosis_id_17		
+diagnosis	study_subject_id_14	diagnosis_id_17		
+diagnosis	study_subject_id_18	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_37	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_19	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_20	diagnosis_id_14	UNCLASSIFIED	
+diagnosis	study_subject_id_21	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_22	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_23	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_24	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_25	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_26	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_27	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_28	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_29	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_30	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_31	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_32	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_33	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_34	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_35	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_36	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_38	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_39	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_40	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_41	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_42	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_43	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_44	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_45	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_46	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_47	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_48	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_49	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_50	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_51	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_52	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_53	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_54	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_55	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_56	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_57	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_58	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_59	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_60	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_61	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_62	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_63	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_64	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_65	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_66	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_67	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_68	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_69	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_16	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_17	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_70	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_71	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_72	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_73	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_74	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_75	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_76	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_77	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_78	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_79	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_80	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_81	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_82	diagnosis_id_17		
+diagnosis	study_subject_id_83	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_84	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_85	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_86	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_87	diagnosis_id_9	MIXED	
+diagnosis	study_subject_id_88	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_89	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_90	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_91	diagnosis_id_9	MIXED	
+diagnosis	study_subject_id_92	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_93	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_94	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_95	diagnosis_id_8	MIXED	III
+diagnosis	study_subject_id_96	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_97	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_98	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_99	diagnosis_id_7	MIXED	II
+diagnosis	study_subject_id_100	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_101	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_102	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_103	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_104	diagnosis_id_8	MIXED	III
+diagnosis	study_subject_id_105	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_106	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_107	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_108	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_109	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_110	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_111	diagnosis_id_7	MIXED	II
+diagnosis	study_subject_id_112	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_113	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_114	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_115	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_116	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_117	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_118	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_119	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_120	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_121	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_122	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_123	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_124	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_125	diagnosis_id_8	MIXED	III
+diagnosis	study_subject_id_126	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_127	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_128	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_129	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_130	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_131	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_132	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_133	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_134	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_135	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_136	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_137	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_138	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_139	diagnosis_id_17		
+diagnosis	study_subject_id_140	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_141	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_142	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_143	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_144	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_145	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_146	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_147	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_148	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_149	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_150	diagnosis_id_17		
+diagnosis	study_subject_id_151	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_152	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_153	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_154	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_155	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_156	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_157	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_158	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_159	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_160	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_161	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_162	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_163	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_164	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_165	diagnosis_id_7	MIXED	II
+diagnosis	study_subject_id_166	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_167	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_168	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_169	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_170	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_171	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_172	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_173	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_174	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_175	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_176	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_177	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_178	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_179	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_180	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_181	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_182	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_183	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_184	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_185	diagnosis_id_17		
+diagnosis	study_subject_id_186	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_187	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_188	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_189	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_190	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_191	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_192	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_193	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_194	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_195	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_196	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_197	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_198	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_199	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_200	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_201	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_202	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_203	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_204	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_205	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_206	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_207	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_208	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_209	diagnosis_id_9	MIXED	
+diagnosis	study_subject_id_210	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_211	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_212	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_213	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_214	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_215	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_216	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_217	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_218	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_219	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_220	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_221	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_222	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_223	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_224	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_225	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_226	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_227	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_228	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_229	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_230	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_231	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_232	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_233	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_234	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_235	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_236	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_237	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_238	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_239	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_240	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_241	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_242	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_243	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_244	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_245	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_246	diagnosis_id_9	MIXED	
+diagnosis	study_subject_id_247	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_248	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_249	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_250	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_251	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_252	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_253	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_254	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_255	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_256	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_257	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_258	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_259	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_260	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_261	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_262	diagnosis_id_17		
+diagnosis	study_subject_id_263	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_264	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_265	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_266	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_267	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_268	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_269	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_270	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_271	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_272	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_273	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_274	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_275	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_276	diagnosis_id_17		
+diagnosis	study_subject_id_277	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_278	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_279	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_280	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_281	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_282	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_283	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_284	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_285	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_286	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_287	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_288	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_289	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_290	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_291	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_292	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_293	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_294	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_295	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_296	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_297	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_298	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_299	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_300	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_301	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_302	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_303	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_304	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_305	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_306	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_307	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_308	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_309	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_310	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_311	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_312	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_313	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_314	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_315	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_316	diagnosis_id_16	UNKNOWN	
+diagnosis	study_subject_id_317	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_318	diagnosis_id_17		
+diagnosis	study_subject_id_319	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_320	diagnosis_id_17		
+diagnosis	study_subject_id_321	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_322	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_323	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_324	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_325	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_326	diagnosis_id_17		
+diagnosis	study_subject_id_327	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_328	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_329	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_330	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_331	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_332	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_333	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_334	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_335	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_336	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_337	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_338	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_339	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_340	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_341	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_342	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_343	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_344	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_345	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_346	diagnosis_id_17		
+diagnosis	study_subject_id_347	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_348	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_349	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_350	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_351	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_352	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_353	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_354	diagnosis_id_17		
+diagnosis	study_subject_id_355	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_356	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_357	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_358	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_359	diagnosis_id_17		
+diagnosis	study_subject_id_360	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_361	diagnosis_id_17		
+diagnosis	study_subject_id_362	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_363	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_364	diagnosis_id_17		
+diagnosis	study_subject_id_365	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_366	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_367	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_368	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_369	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_370	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_371	diagnosis_id_17		
+diagnosis	study_subject_id_372	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_373	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_374	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_375	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_376	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_377	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_378	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_379	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_380	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_381	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_382	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_383	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_384	diagnosis_id_17		
+diagnosis	study_subject_id_385	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_386	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_387	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_388	diagnosis_id_17		
+diagnosis	study_subject_id_389	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_390	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_391	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_392	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_393	diagnosis_id_17		
+diagnosis	study_subject_id_394	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_395	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_396	diagnosis_id_17		
+diagnosis	study_subject_id_397	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_398	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_399	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_400	diagnosis_id_17		
+diagnosis	study_subject_id_401	diagnosis_id_17		
+diagnosis	study_subject_id_402	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_403	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_404	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_405	diagnosis_id_17		
+diagnosis	study_subject_id_406	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_407	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_408	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_409	diagnosis_id_9	MIXED	
+diagnosis	study_subject_id_410	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_411	diagnosis_id_17		
+diagnosis	study_subject_id_412	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_413	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_414	diagnosis_id_13	OLIGODENDROGLIOMA	
+diagnosis	study_subject_id_415	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_416	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_417	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_418	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_419	diagnosis_id_17		
+diagnosis	study_subject_id_420	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_421	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_422	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_423	diagnosis_id_17		
+diagnosis	study_subject_id_424	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_425	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_426	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_427	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_428	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_429	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_430	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_431	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_432	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_433	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_434	diagnosis_id_4	GBM	I
+diagnosis	study_subject_id_435	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_436	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_437	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_438	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_439	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_440	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_441	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_442	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_443	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_444	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_445	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_446	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_447	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_448	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_449	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_450	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_451	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_452	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_453	diagnosis_id_7	MIXED	II
+diagnosis	study_subject_id_454	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_455	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_456	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_457	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_458	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_459	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_460	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_461	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_462	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_463	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_464	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_465	diagnosis_id_4	GBM	I
+diagnosis	study_subject_id_466	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_467	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_468	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_469	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_470	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_471	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_472	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_473	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_474	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_475	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_476	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_477	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_478	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_479	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_480	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_481	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_482	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_483	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_484	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_485	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_486	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_487	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_488	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_489	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_490	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_491	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_492	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_493	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_494	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_495	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_496	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_497	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_498	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_499	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_500	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_501	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_502	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_503	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_504	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_505	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_506	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_507	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_508	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_509	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_510	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_511	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_512	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_513	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_514	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_515	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_516	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_517	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_518	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_519	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_520	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_521	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_522	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_523	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_524	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_525	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_526	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_527	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_528	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_529	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_530	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_531	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_532	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_533	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_534	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_535	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_536	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_537	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_538	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_539	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_540	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_541	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_542	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_543	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_544	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_545	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_546	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_547	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_548	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_549	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_550	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_551	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_552	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_553	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_554	diagnosis_id_8	MIXED	III
+diagnosis	study_subject_id_555	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_556	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_557	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_558	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_559	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_560	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_561	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_562	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_563	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_564	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_565	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_566	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_567	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_568	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_569	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_570	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_571	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_572	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_573	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_574	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_575	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_576	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_577	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_578	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_579	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_580	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_581	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_582	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_583	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_584	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_585	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_586	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_587	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_588	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_589	diagnosis_id_17		
+diagnosis	study_subject_id_590	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_591	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_592	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_593	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_594	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_595	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_596	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_597	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_598	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_599	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_600	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_601	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_602	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_603	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_604	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_605	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_606	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_607	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_608	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_609	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_610	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_611	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_612	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_613	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_614	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_615	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_616	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_617	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_618	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_619	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_620	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_621	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_622	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_623	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_624	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_625	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_626	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_627	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_628	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_629	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_630	diagnosis_id_11	OLIGODENDROGLIOMA	II
+diagnosis	study_subject_id_631	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_632	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_633	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_634	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_635	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_636	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_637	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_638	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_639	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_640	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_641	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_642	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_643	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_644	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_645	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_646	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_647	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_648	diagnosis_id_1	ASTROCYTOMA	II
+diagnosis	study_subject_id_649	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_650	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_651	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_652	diagnosis_id_3	ASTROCYTOMA	
+diagnosis	study_subject_id_653	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_654	diagnosis_id_12	OLIGODENDROGLIOMA	III
+diagnosis	study_subject_id_655	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_656	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_657	diagnosis_id_15	UNKNOWN	III
+diagnosis	study_subject_id_658	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_659	diagnosis_id_2	ASTROCYTOMA	III
+diagnosis	study_subject_id_660	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_661	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_662	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_663	diagnosis_id_5	GBM	IV
+diagnosis	study_subject_id_664	diagnosis_id_6	GBM	
+diagnosis	study_subject_id_665	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_666	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_667	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_668	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_669	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_670	diagnosis_id_10	NON_TUMOR	
+diagnosis	study_subject_id_671	diagnosis_id_10	NON_TUMOR	

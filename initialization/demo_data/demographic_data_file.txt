@@ -1,11 +1,672 @@
-type	study_subject.study_subject_id	demographic_data_id	age_at_index	cause_of_death	survival_time	race	ethnicity	vital_status	menopause_status	gender
-demographic_data	BENTO-CASE-0001	BENTO-DEMO-0001	64	Not_applicable	2350	Black or African American	Not Hispanic or Latino	Alive	Postmenopausal	Female
-demographic_data	BENTO-CASE-0002	BENTO-DEMO-0002	47	Not_applicable	8391	Black or African American	Not Hispanic or Latino	Alive	Perimenopausal	Female
-demographic_data	BENTO-CASE-0003	BENTO-DEMO-0003	48	Not_applicable	1123	White	Hispanic or Latino	Alive	Postmenopausal	Female
-demographic_data	BENTO-CASE-0004	BENTO-DEMO-0004	57	Not_applicable	0	Asian	Not Hispanic or Latino	Alive	Postmenopausal	Female
-demographic_data	BENTO-CASE-0005	BENTO-DEMO-0005	55	Not_applicable	2672	Black or African American	Hispanic or Latino	Alive	Postmenopausal	Female
-demographic_data	BENTO-CASE-0006	BENTO-DEMO-0006	38	Not_applicable	4839	Native Hawaiian or Other Pacific Islander	Not Hispanic or Latino	Alive	Premenopausal 	Female
-demographic_data	BENTO-CASE-0007	BENTO-DEMO-0007	43	Not_applicable	3339	American Indian or Alaska Native	Not Hispanic or Latino	Alive	Premenopausal 	Female
-demographic_data	BENTO-CASE-0008	BENTO-DEMO-0008	45	Not_applicable	3829	American Indian or Alaska Native	Not Hispanic or Latino	Alive	Premenopausal 	Female
-demographic_data	BENTO-CASE-0009	BENTO-DEMO-0009	54	Not_applicable	291	American Indian or Alaska Native	Not Hispanic or Latino	Alive	Postmenopausal	Female
-demographic_data	BENTO-CASE-0010	BENTO-DEMO-0010	60	Breast Cancer	234	Native Hawaiian or Other Pacific Islander	Not Hispanic or Latino	Dead	Postmenopausal	Female
+type	study_subject.study_subject_id	demographic_data_id	AGE_RANGE	GENDER	RACE
+demographic_data	study_subject_id_15	demographic_data_id_86			
+demographic_data	study_subject_id_1	demographic_data_id_86			
+demographic_data	study_subject_id_2	demographic_data_id_86			
+demographic_data	study_subject_id_3	demographic_data_id_86			
+demographic_data	study_subject_id_4	demographic_data_id_86			
+demographic_data	study_subject_id_5	demographic_data_id_86			
+demographic_data	study_subject_id_6	demographic_data_id_86			
+demographic_data	study_subject_id_7	demographic_data_id_86			
+demographic_data	study_subject_id_8	demographic_data_id_86			
+demographic_data	study_subject_id_9	demographic_data_id_86			
+demographic_data	study_subject_id_10	demographic_data_id_86			
+demographic_data	study_subject_id_11	demographic_data_id_86			
+demographic_data	study_subject_id_12	demographic_data_id_86			
+demographic_data	study_subject_id_13	demographic_data_id_86			
+demographic_data	study_subject_id_14	demographic_data_id_86			
+demographic_data	study_subject_id_18	demographic_data_id_86			
+demographic_data	study_subject_id_37	demographic_data_id_86			
+demographic_data	study_subject_id_19	demographic_data_id_86			
+demographic_data	study_subject_id_20	demographic_data_id_86			
+demographic_data	study_subject_id_21	demographic_data_id_86			
+demographic_data	study_subject_id_22	demographic_data_id_86			
+demographic_data	study_subject_id_23	demographic_data_id_86			
+demographic_data	study_subject_id_24	demographic_data_id_86			
+demographic_data	study_subject_id_25	demographic_data_id_86			
+demographic_data	study_subject_id_26	demographic_data_id_86			
+demographic_data	study_subject_id_27	demographic_data_id_86			
+demographic_data	study_subject_id_28	demographic_data_id_86			
+demographic_data	study_subject_id_29	demographic_data_id_86			
+demographic_data	study_subject_id_30	demographic_data_id_86			
+demographic_data	study_subject_id_31	demographic_data_id_86			
+demographic_data	study_subject_id_32	demographic_data_id_86			
+demographic_data	study_subject_id_33	demographic_data_id_86			
+demographic_data	study_subject_id_34	demographic_data_id_86			
+demographic_data	study_subject_id_35	demographic_data_id_86			
+demographic_data	study_subject_id_36	demographic_data_id_86			
+demographic_data	study_subject_id_38	demographic_data_id_86			
+demographic_data	study_subject_id_39	demographic_data_id_86			
+demographic_data	study_subject_id_40	demographic_data_id_86			
+demographic_data	study_subject_id_41	demographic_data_id_86			
+demographic_data	study_subject_id_42	demographic_data_id_86			
+demographic_data	study_subject_id_43	demographic_data_id_86			
+demographic_data	study_subject_id_44	demographic_data_id_86			
+demographic_data	study_subject_id_45	demographic_data_id_86			
+demographic_data	study_subject_id_46	demographic_data_id_86			
+demographic_data	study_subject_id_47	demographic_data_id_86			
+demographic_data	study_subject_id_48	demographic_data_id_86			
+demographic_data	study_subject_id_49	demographic_data_id_86			
+demographic_data	study_subject_id_50	demographic_data_id_86			
+demographic_data	study_subject_id_51	demographic_data_id_86			
+demographic_data	study_subject_id_52	demographic_data_id_86			
+demographic_data	study_subject_id_53	demographic_data_id_86			
+demographic_data	study_subject_id_54	demographic_data_id_86			
+demographic_data	study_subject_id_55	demographic_data_id_86			
+demographic_data	study_subject_id_56	demographic_data_id_86			
+demographic_data	study_subject_id_57	demographic_data_id_86			
+demographic_data	study_subject_id_58	demographic_data_id_86			
+demographic_data	study_subject_id_59	demographic_data_id_86			
+demographic_data	study_subject_id_60	demographic_data_id_86			
+demographic_data	study_subject_id_61	demographic_data_id_86			
+demographic_data	study_subject_id_62	demographic_data_id_86			
+demographic_data	study_subject_id_63	demographic_data_id_86			
+demographic_data	study_subject_id_64	demographic_data_id_86			
+demographic_data	study_subject_id_65	demographic_data_id_86			
+demographic_data	study_subject_id_66	demographic_data_id_86			
+demographic_data	study_subject_id_67	demographic_data_id_86			
+demographic_data	study_subject_id_68	demographic_data_id_86			
+demographic_data	study_subject_id_69	demographic_data_id_86			
+demographic_data	study_subject_id_16	demographic_data_id_86			
+demographic_data	study_subject_id_17	demographic_data_id_86			
+demographic_data	study_subject_id_70	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_71	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_72	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_73	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_74	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_75	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_76	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_77	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_78	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_79	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_80	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_81	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_82	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_83	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_84	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_85	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_86	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_87	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_88	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_89	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_90	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_91	demographic_data_id_19	30-34	FEMALE	OTHER
+demographic_data	study_subject_id_92	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_93	demographic_data_id_28	35-39	MALE	ASIAN
+demographic_data	study_subject_id_94	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_95	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_96	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_97	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_98	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_99	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_100	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_101	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_102	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_103	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_104	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_105	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_106	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_107	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_108	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_109	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_110	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_111	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_112	demographic_data_id_12	25-29	FEMALE	WHITE
+demographic_data	study_subject_id_113	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_114	demographic_data_id_48	50-54	MALE	OTHER
+demographic_data	study_subject_id_115	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_116	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_117	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_118	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_119	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_120	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_121	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_122	demographic_data_id_7	20-24	FEMALE	ASIAN
+demographic_data	study_subject_id_123	demographic_data_id_8	20-24	FEMALE	WHITE
+demographic_data	study_subject_id_124	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_125	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_126	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_127	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_128	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_129	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_130	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_131	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_132	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_133	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_134	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_135	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_136	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_137	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_138	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_139	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_140	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_141	demographic_data_id_67	65-69	MALE	ASIAN
+demographic_data	study_subject_id_142	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_143	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_144	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_145	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_146	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_147	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_148	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_149	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_150	demographic_data_id_8	20-24	FEMALE	WHITE
+demographic_data	study_subject_id_151	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_152	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_153	demographic_data_id_65	65-69	FEMALE	WHITE
+demographic_data	study_subject_id_154	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_155	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_156	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_157	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_158	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_159	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_160	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_161	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_162	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_163	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_164	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_165	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_166	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_167	demographic_data_id_80	75-79	MALE	WHITE
+demographic_data	study_subject_id_168	demographic_data_id_12	25-29	FEMALE	WHITE
+demographic_data	study_subject_id_169	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_170	demographic_data_id_65	65-69	FEMALE	WHITE
+demographic_data	study_subject_id_171	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_172	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_173	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_174	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_175	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_176	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_177	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_178	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_179	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_180	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_181	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_182	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_183	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_184	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_185	demographic_data_id_86			
+demographic_data	study_subject_id_186	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_187	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_188	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_189	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_190	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_191	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_192	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_193	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_194	demographic_data_id_18	30-34	FEMALE	NATIVEHAWAIIAN
+demographic_data	study_subject_id_195	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_196	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_197	demographic_data_id_22	30-34	MALE	ASIAN
+demographic_data	study_subject_id_198	demographic_data_id_61	60-64	MALE	ASIAN
+demographic_data	study_subject_id_199	demographic_data_id_82	80-84	FEMALE	WHITE
+demographic_data	study_subject_id_200	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_201	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_202	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_203	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_204	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_205	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_206	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_207	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_208	demographic_data_id_65	65-69	FEMALE	WHITE
+demographic_data	study_subject_id_209	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_210	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_211	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_212	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_213	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_214	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_215	demographic_data_id_82	80-84	FEMALE	WHITE
+demographic_data	study_subject_id_216	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_217	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_218	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_219	demographic_data_id_55	55-59	MALE	BLACK
+demographic_data	study_subject_id_220	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_221	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_222	demographic_data_id_80	75-79	MALE	WHITE
+demographic_data	study_subject_id_223	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_224	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_225	demographic_data_id_8	20-24	FEMALE	WHITE
+demographic_data	study_subject_id_226	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_227	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_228	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_229	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_230	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_231	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_232	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_233	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_234	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_235	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_236	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_237	demographic_data_id_80	75-79	MALE	WHITE
+demographic_data	study_subject_id_238	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_239	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_240	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_241	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_242	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_243	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_244	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_245	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_246	demographic_data_id_12	25-29	FEMALE	WHITE
+demographic_data	study_subject_id_247	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_248	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_249	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_250	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_251	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_252	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_253	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_254	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_255	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_256	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_257	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_258	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_259	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_260	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_261	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_262	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_263	demographic_data_id_77	75-79	FEMALE	WHITE
+demographic_data	study_subject_id_264	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_265	demographic_data_id_35	40-44	MALE	BLACK
+demographic_data	study_subject_id_266	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_267	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_268	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_269	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_270	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_271	demographic_data_id_23	30-34	MALE	BLACK
+demographic_data	study_subject_id_272	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_273	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_274	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_275	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_276	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_277	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_278	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_279	demographic_data_id_80	75-79	MALE	WHITE
+demographic_data	study_subject_id_280	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_281	demographic_data_id_8	20-24	FEMALE	WHITE
+demographic_data	study_subject_id_282	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_283	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_284	demographic_data_id_68	65-69	MALE	BLACK
+demographic_data	study_subject_id_285	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_286	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_287	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_288	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_289	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_290	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_291	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_292	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_293	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_294	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_295	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_296	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_297	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_298	demographic_data_id_65	65-69	FEMALE	WHITE
+demographic_data	study_subject_id_299	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_300	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_301	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_302	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_303	demographic_data_id_68	65-69	MALE	BLACK
+demographic_data	study_subject_id_304	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_305	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_306	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_307	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_308	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_309	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_310	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_311	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_312	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_313	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_314	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_315	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_316	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_317	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_318	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_319	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_320	demographic_data_id_84	85-89	FEMALE	WHITE
+demographic_data	study_subject_id_321	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_322	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_323	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_324	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_325	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_326	demographic_data_id_86			
+demographic_data	study_subject_id_327	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_328	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_329	demographic_data_id_86			
+demographic_data	study_subject_id_330	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_331	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_332	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_333	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_334	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_335	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_336	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_337	demographic_data_id_13	25-29	MALE	BLACK
+demographic_data	study_subject_id_338	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_339	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_340	demographic_data_id_86			
+demographic_data	study_subject_id_341	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_342	demographic_data_id_8	20-24	FEMALE	WHITE
+demographic_data	study_subject_id_343	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_344	demographic_data_id_12	25-29	FEMALE	WHITE
+demographic_data	study_subject_id_345	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_346	demographic_data_id_4	15-19	FEMALE	OTHER
+demographic_data	study_subject_id_347	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_348	demographic_data_id_55	55-59	MALE	BLACK
+demographic_data	study_subject_id_349	demographic_data_id_73	70-74	MALE	NATIVE HAWAIIAN
+demographic_data	study_subject_id_350	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_351	demographic_data_id_52	55-59	FEMALE	NATIVEHAWAIIAN
+demographic_data	study_subject_id_352	demographic_data_id_77	75-79	FEMALE	WHITE
+demographic_data	study_subject_id_353	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_354	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_355	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_356	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_357	demographic_data_id_84	85-89	FEMALE	WHITE
+demographic_data	study_subject_id_358	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_359	demographic_data_id_68	65-69	MALE	BLACK
+demographic_data	study_subject_id_360	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_361	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_362	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_363	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_364	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_365	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_366	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_367	demographic_data_id_12	25-29	FEMALE	WHITE
+demographic_data	study_subject_id_368	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_369	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_370	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_371	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_372	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_373	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_374	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_375	demographic_data_id_80	75-79	MALE	WHITE
+demographic_data	study_subject_id_376	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_377	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_378	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_379	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_380	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_381	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_382	demographic_data_id_17	30-34	FEMALE	BLACK
+demographic_data	study_subject_id_383	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_384	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_385	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_386	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_387	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_388	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_389	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_390	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_391	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_392	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_393	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_394	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_395	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_396	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_397	demographic_data_id_34	40-44	MALE	ASIAN
+demographic_data	study_subject_id_398	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_399	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_400	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_401	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_402	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_403	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_404	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_405	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_406	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_407	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_408	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_409	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_410	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_411	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_412	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_413	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_414	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_415	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_416	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_417	demographic_data_id_32	40-44	FEMALE	OTHER
+demographic_data	study_subject_id_418	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_419	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_420	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_421	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_422	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_423	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_424	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_425	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_426	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_427	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_428	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_429	demographic_data_id_44	45-49	MALE	
+demographic_data	study_subject_id_430	demographic_data_id_10	20-24	MALE	
+demographic_data	study_subject_id_431	demographic_data_id_78	75-79	FEMALE	
+demographic_data	study_subject_id_432	demographic_data_id_60	60-64	FEMALE	
+demographic_data	study_subject_id_433	demographic_data_id_70	65-69		
+demographic_data	study_subject_id_434	demographic_data_id_25	30-34	MALE	
+demographic_data	study_subject_id_435	demographic_data_id_47	50-54	FEMALE	
+demographic_data	study_subject_id_436	demographic_data_id_58	55-59		
+demographic_data	study_subject_id_437	demographic_data_id_60	60-64	FEMALE	
+demographic_data	study_subject_id_438	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_439	demographic_data_id_66	65-69	FEMALE	
+demographic_data	study_subject_id_440	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_441	demographic_data_id_16	25-29		
+demographic_data	study_subject_id_442	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_443	demographic_data_id_45	45-49		
+demographic_data	study_subject_id_444	demographic_data_id_81	75-79		
+demographic_data	study_subject_id_445	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_446	demographic_data_id_76	70-74		
+demographic_data	study_subject_id_447	demographic_data_id_45	45-49		
+demographic_data	study_subject_id_448	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_449	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_450	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_451	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_452	demographic_data_id_76	70-74		
+demographic_data	study_subject_id_453	demographic_data_id_47	50-54	FEMALE	
+demographic_data	study_subject_id_454	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_455	demographic_data_id_25	30-34	MALE	
+demographic_data	study_subject_id_456	demographic_data_id_16	25-29		
+demographic_data	study_subject_id_457	demographic_data_id_38	40-44		
+demographic_data	study_subject_id_458	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_459	demographic_data_id_76	70-74		
+demographic_data	study_subject_id_460	demographic_data_id_44	45-49	MALE	
+demographic_data	study_subject_id_461	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_462	demographic_data_id_63	60-64	MALE	
+demographic_data	study_subject_id_463	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_464	demographic_data_id_30	35-39	MALE	
+demographic_data	study_subject_id_465	demographic_data_id_40	45-49	FEMALE	
+demographic_data	study_subject_id_466	demographic_data_id_63	60-64	MALE	
+demographic_data	study_subject_id_467	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_468	demographic_data_id_38	40-44		
+demographic_data	study_subject_id_469	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_470	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_471	demographic_data_id_25	30-34	MALE	
+demographic_data	study_subject_id_472	demographic_data_id_16	25-29		
+demographic_data	study_subject_id_473	demographic_data_id_37	40-44	MALE	
+demographic_data	study_subject_id_474	demographic_data_id_75	70-74	MALE	
+demographic_data	study_subject_id_475	demographic_data_id_21	30-34	FEMALE	
+demographic_data	study_subject_id_476	demographic_data_id_25	30-34	MALE	
+demographic_data	study_subject_id_477	demographic_data_id_54	55-59	FEMALE	
+demographic_data	study_subject_id_478	demographic_data_id_16	25-29		
+demographic_data	study_subject_id_479	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_480	demographic_data_id_58	55-59		
+demographic_data	study_subject_id_481	demographic_data_id_63	60-64	MALE	
+demographic_data	study_subject_id_482	demographic_data_id_38	40-44		
+demographic_data	study_subject_id_483	demographic_data_id_44	45-49	MALE	
+demographic_data	study_subject_id_484	demographic_data_id_21	30-34	FEMALE	
+demographic_data	study_subject_id_485	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_486	demographic_data_id_78	75-79	FEMALE	
+demographic_data	study_subject_id_487	demographic_data_id_58	55-59		
+demographic_data	study_subject_id_488	demographic_data_id_11	20-24		
+demographic_data	study_subject_id_489	demographic_data_id_30	35-39	MALE	
+demographic_data	study_subject_id_490	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_491	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_492	demographic_data_id_81	75-79		
+demographic_data	study_subject_id_493	demographic_data_id_76	70-74		
+demographic_data	study_subject_id_494	demographic_data_id_45	45-49		
+demographic_data	study_subject_id_495	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_496	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_497	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_498	demographic_data_id_38	40-44		
+demographic_data	study_subject_id_499	demographic_data_id_2	14-Oct		
+demographic_data	study_subject_id_500	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_501	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_502	demographic_data_id_6	15-19		
+demographic_data	study_subject_id_503	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_504	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_505	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_506	demographic_data_id_44	45-49	MALE	
+demographic_data	study_subject_id_507	demographic_data_id_86			
+demographic_data	study_subject_id_508	demographic_data_id_44	45-49	MALE	
+demographic_data	study_subject_id_509	demographic_data_id_38	40-44		
+demographic_data	study_subject_id_510	demographic_data_id_50	50-54	MALE	
+demographic_data	study_subject_id_511	demographic_data_id_58	55-59		
+demographic_data	study_subject_id_512	demographic_data_id_37	40-44	MALE	
+demographic_data	study_subject_id_513	demographic_data_id_50	50-54	MALE	
+demographic_data	study_subject_id_514	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_515	demographic_data_id_30	35-39	MALE	
+demographic_data	study_subject_id_516	demographic_data_id_6	15-19		
+demographic_data	study_subject_id_517	demographic_data_id_38	40-44		
+demographic_data	study_subject_id_518	demographic_data_id_70	65-69		
+demographic_data	study_subject_id_519	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_520	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_521	demographic_data_id_30	35-39	MALE	
+demographic_data	study_subject_id_522	demographic_data_id_45	45-49		
+demographic_data	study_subject_id_523	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_524	demographic_data_id_30	35-39	MALE	
+demographic_data	study_subject_id_525	demographic_data_id_44	45-49	MALE	
+demographic_data	study_subject_id_526	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_527	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_528	demographic_data_id_86			
+demographic_data	study_subject_id_529	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_530	demographic_data_id_45	45-49		
+demographic_data	study_subject_id_531	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_532	demographic_data_id_26	30-34		
+demographic_data	study_subject_id_533	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_534	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_535	demographic_data_id_84	85-89	FEMALE	WHITE
+demographic_data	study_subject_id_536	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_537	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_538	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_539	demographic_data_id_76	70-74		
+demographic_data	study_subject_id_540	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_541	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_542	demographic_data_id_81	75-79		
+demographic_data	study_subject_id_543	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_544	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_545	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_546	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_547	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_548	demographic_data_id_81	75-79		
+demographic_data	study_subject_id_549	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_550	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_551	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_552	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_553	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_554	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_555	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_556	demographic_data_id_35	40-44	MALE	BLACK
+demographic_data	study_subject_id_557	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_558	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_559	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_560	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_561	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_562	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_563	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_564	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_565	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_566	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_567	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_568	demographic_data_id_42	45-49	MALE	BLACK
+demographic_data	study_subject_id_569	demographic_data_id_76	70-74		
+demographic_data	study_subject_id_570	demographic_data_id_12	25-29	FEMALE	WHITE
+demographic_data	study_subject_id_571	demographic_data_id_25	30-34	MALE	
+demographic_data	study_subject_id_572	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_573	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_574	demographic_data_id_63	60-64	MALE	
+demographic_data	study_subject_id_575	demographic_data_id_12	25-29	FEMALE	WHITE
+demographic_data	study_subject_id_576	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_577	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_578	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_579	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_580	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_581	demographic_data_id_58	55-59		
+demographic_data	study_subject_id_582	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_583	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_584	demographic_data_id_33	40-44	FEMALE	WHITE
+demographic_data	study_subject_id_585	demographic_data_id_81	75-79		
+demographic_data	study_subject_id_586	demographic_data_id_41	45-49	MALE	ASIANNOS
+demographic_data	study_subject_id_587	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_588	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_589	demographic_data_id_86			
+demographic_data	study_subject_id_590	demographic_data_id_71	70-74	FEMALE	BLACK
+demographic_data	study_subject_id_591	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_592	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_593	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_594	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_595	demographic_data_id_8	20-24	FEMALE	WHITE
+demographic_data	study_subject_id_596	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_597	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_598	demographic_data_id_3	15-19	FEMALE	BLACK
+demographic_data	study_subject_id_599	demographic_data_id_63	60-64	MALE	
+demographic_data	study_subject_id_600	demographic_data_id_58	55-59		
+demographic_data	study_subject_id_601	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_602	demographic_data_id_6	15-19		
+demographic_data	study_subject_id_603	demographic_data_id_31	35-39		
+demographic_data	study_subject_id_604	demographic_data_id_13	25-29	MALE	BLACK
+demographic_data	study_subject_id_605	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_606	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_607	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_608	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_609	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_610	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_611	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_612	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_613	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_614	demographic_data_id_40	45-49	FEMALE	
+demographic_data	study_subject_id_615	demographic_data_id_5	15-19	MALE	WHITE
+demographic_data	study_subject_id_616	demographic_data_id_64	60-64		
+demographic_data	study_subject_id_617	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_618	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_619	demographic_data_id_83	80-84	MALE	WHITE
+demographic_data	study_subject_id_620	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_621	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_622	demographic_data_id_27	35-39	FEMALE	WHITE
+demographic_data	study_subject_id_623	demographic_data_id_58	55-59		
+demographic_data	study_subject_id_624	demographic_data_id_14	25-29	MALE	OTHER
+demographic_data	study_subject_id_625	demographic_data_id_53	55-59	FEMALE	WHITE
+demographic_data	study_subject_id_626	demographic_data_id_58	55-59		
+demographic_data	study_subject_id_627	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_628	demographic_data_id_79	75-79	MALE	BLACK
+demographic_data	study_subject_id_629	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_630	demographic_data_id_1	14-Oct	MALE	WHITE
+demographic_data	study_subject_id_631	demographic_data_id_77	75-79	FEMALE	WHITE
+demographic_data	study_subject_id_632	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_633	demographic_data_id_70	65-69		
+demographic_data	study_subject_id_634	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_635	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_636	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_637	demographic_data_id_70	65-69		
+demographic_data	study_subject_id_638	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_639	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_640	demographic_data_id_29	35-39	MALE	WHITE
+demographic_data	study_subject_id_641	demographic_data_id_51	50-54		
+demographic_data	study_subject_id_642	demographic_data_id_43	45-49	MALE	WHITE
+demographic_data	study_subject_id_643	demographic_data_id_70	65-69		
+demographic_data	study_subject_id_644	demographic_data_id_70	65-69		
+demographic_data	study_subject_id_645	demographic_data_id_69	65-69	MALE	WHITE
+demographic_data	study_subject_id_646	demographic_data_id_49	50-54	MALE	WHITE
+demographic_data	study_subject_id_647	demographic_data_id_77	75-79	FEMALE	WHITE
+demographic_data	study_subject_id_648	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_649	demographic_data_id_24	30-34	MALE	WHITE
+demographic_data	study_subject_id_650	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_651	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_652	demographic_data_id_9	20-24	MALE	WHITE
+demographic_data	study_subject_id_653	demographic_data_id_15	25-29	MALE	WHITE
+demographic_data	study_subject_id_654	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_655	demographic_data_id_59	60-64	FEMALE	WHITE
+demographic_data	study_subject_id_656	demographic_data_id_20	30-34	FEMALE	WHITE
+demographic_data	study_subject_id_657	demographic_data_id_36	40-44	MALE	WHITE
+demographic_data	study_subject_id_658	demographic_data_id_46	50-54	FEMALE	WHITE
+demographic_data	study_subject_id_659	demographic_data_id_39	45-49	FEMALE	WHITE
+demographic_data	study_subject_id_660	demographic_data_id_62	60-64	MALE	WHITE
+demographic_data	study_subject_id_661	demographic_data_id_57	55-59	MALE	WHITE
+demographic_data	study_subject_id_662	demographic_data_id_74	70-74	MALE	WHITE
+demographic_data	study_subject_id_663	demographic_data_id_72	70-74	FEMALE	WHITE
+demographic_data	study_subject_id_664	demographic_data_id_56	55-59	MALE	HISPANIC
+demographic_data	study_subject_id_665	demographic_data_id_85			UNKNOWN
+demographic_data	study_subject_id_666	demographic_data_id_85			UNKNOWN
+demographic_data	study_subject_id_667	demographic_data_id_85			UNKNOWN
+demographic_data	study_subject_id_668	demographic_data_id_85			UNKNOWN
+demographic_data	study_subject_id_669	demographic_data_id_85			UNKNOWN
+demographic_data	study_subject_id_670	demographic_data_id_85			UNKNOWN
+demographic_data	study_subject_id_671	demographic_data_id_85			UNKNOWN
